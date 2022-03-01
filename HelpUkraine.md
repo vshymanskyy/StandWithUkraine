@@ -7,6 +7,6 @@
 - [Donate](/Donate.md) to Ukrainian charities
 - Protest war. **Don’t be silent**
 
-If you are a citizen of Russia, get acquainted yourself and understand what is happening, and secondly, send the information to your friends, as well as to officials, local deputies, journalists, families of military personnel. Comment on social media, especially under false reports that there is just a “limited military operation” in Ukraine and that the civilian population is not suffering. Everyone must know the truth!
+If you are a citizen of Russia, get acquainted yourself and understand what is happening, send the information to your friends, as well as to officials, local deputies, journalists, families of military personnel. Comment on social media, especially under false reports that there is just a “limited military operation” in Ukraine and that the civilian population is not suffering. Everyone must know the truth!
 
-Если вы гражданин россии, во-первых, ознакомьтесь сами и осознайте происходящее, во-вторых, пересылайте информацию своим знакомым, а также – чиновникам, местным депутатам, журналистам, семьям военнослужащих. Комментируйте в соцсетях, особенно под лживыми сообщениями, что в Украине ведется всего лишь «ограниченная военная операция» и гражданское население не страдает. Все должны знать правду!
+Если вы гражданин России, ознакомьтесь сами и осознайте происходящее, пересылайте информацию своим знакомым, а также – чиновникам, местным депутатам, журналистам, семьям военнослужащих. Комментируйте в соцсетях, особенно под лживыми сообщениями, что в Украине ведется всего лишь «ограниченная военная операция» и гражданское население не страдает. Все должны знать правду!
