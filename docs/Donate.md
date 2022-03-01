@@ -1,6 +1,7 @@
-# Donate to support Ukraine
+# Donate to support Ukraine (only verified charities)
 
 Please opt-in for monthly payment, if possible.
+
 - [**Army SOS**](https://armysos.com.ua/en/) - provides food and other support to Ukrainian troops
 - [**Come Back Alive**](https://savelife.in.ua/en/donate/) - provide support to the Ukrainian Armed Forces
 - [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) - provide humanitarian relief to Ukrainians affected by the conflict
