@@ -29,3 +29,8 @@ Find More on [VoxCheck Ukraine](https://voxukraine.org/en/category/voxukraine-in
 ✅ False. Russian forces are very limited in their movement in Ukraine. They are trying to focus on the most easily reachable targets, yet still are slowing down due to lack of resources and issues with logistics.
 
 ---
+
+⛔️ Kyiv is surrounded and begs for mercy  
+✅ False. Russian forces are trying to surround the capital of Ukraine, but they are far from success.
+
+---
