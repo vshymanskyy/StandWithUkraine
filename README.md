@@ -1,4 +1,4 @@
-# #StandWithUkraine
+# #StandWithUkraine 🇺🇦
 
 The Russian occupation of Ukraine contravenes and violates several international laws, including the United Nations Charter. It is an unprovoked, unjustifiable, and despicable action that endangers countless civilians.
 
