@@ -10,7 +10,17 @@ Find More on [VoxCheck Ukraine](https://voxukraine.org/en/category/voxukraine-in
 
 ---
 
-⛔️ Ukrainian civilians are not eligible to make and use the ["Molotov cocktail" (petrol bomb)](https://en.wikipedia.org/wiki/Molotov_cocktail)  
+⛔️ Russian Armed Forces are involved in a humanitarian mission  
+✅ False. They are shooting rockets and huge bombs (inc. prohibited weapons) into residential areas of largest Ukrainian cities, killing countless civilians.
+
+---
+
+⛔️ Ukrainian Armed forces are shelling Ukrainian cities  
+✅ False. Russia is trying to shift photo facts of shellings, shifting responsibility to the Ukrainian Armed Forces for shelling civilians.
+
+---
+
+⛔️ Ukrainian civilians are not eligible to make and use the ["Molotov cocktail"](https://en.wikipedia.org/wiki/Molotov_cocktail) (petrol bomb)  
 ✅ False. Ukraine officially allowed making and using such bombs against invaders. Russian soldiers are scared to be destroyed by civilans using those DIY bombs.
 
 ---
