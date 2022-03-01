@@ -26,7 +26,7 @@ Find More on [VoxCheck Ukraine](https://voxukraine.org/en/category/voxukraine-in
 ---
 
 ⛔️ Russian troops are able to advance immediately and everywhere across Ukraine  
-✅ False. Russian forces are very limited in their movement in Ukraine. They are trying to focus on the most easily reachable targets, yet still are slowing down due to lack of resources and issues with logistics.
+✅ False. Russian forces are very limited in their movement in Ukraine. They are trying to focus on the easily reachable targets, yet are still slowing down due to lack of resources and issues with logistics.
 
 ---
 
