@@ -1,10 +1,10 @@
 # Help Ukraine
 
-- Educate yourself and others on the Russian threat, follow [reputable journalists](/WarNews.md)
+- Educate yourself and others on the Russian threat, follow [reputable journalists](/docs/WarNews.md)
 - Demand severe Russian sanctions and Ukrainian support from your leaders
 - Reach out to Ukrainian friends, offer help
 - Get rid of Russian software, dependencies and infrastructure
-- [Donate](/Donate.md) to Ukrainian charities
+- [Donate](/docs/Donate.md) to Ukrainian charities
 - Protest war. **Don’t be silent**
 
 If you are a citizen of Russia, get acquainted yourself and understand what is happening, send the information to your friends, as well as to officials, local deputies, journalists, families of military personnel. Comment on social media, especially under false reports that there is just a “limited military operation” in Ukraine and that the civilian population is not suffering. Everyone must know the truth!
