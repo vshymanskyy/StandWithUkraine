@@ -8,11 +8,12 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 ## Help Ukraine
 
-- Educate yourself and others on the Russian threat, follow [reputable journalists](/docs/WarNews.md)
+- Educate yourself and others on the Russian threat, follow [**reputable journalists**](/docs/WarNews.md)
+- Check out [**common misbeliefs**](/docs/Misconceptions.md)
 - Demand severe sanctions against Russia and support for Ukraine from your leaders
 - Reach out to Ukrainian friends, offer help
 - Get rid of Russian software, dependencies and infrastructure
-- [Donate](/docs/Donate.md) to Ukrainian charities
+- [**Donate**](/docs/Donate.md) to Ukrainian charities
 - Protest against war. **Don’t be silent**
 
 ## For Russian citizens
