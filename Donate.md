@@ -1,7 +1,7 @@
 # Donate to support Ukraine
 
 Please opt-in for monthly payment, if possible.
-- [**Army SOS**](https://armysos.com.ua/en/) - provides food and other support directly to Ukrainian troops
+- [**Army SOS**](https://armysos.com.ua/en/) - provides food and other support to Ukrainian troops
 - [**Come Back Alive**](https://savelife.in.ua/en/donate/) - provide support to the Ukrainian Armed Forces
 - [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) - provide humanitarian relief to Ukrainians affected by the conflict
 - [**Sunflower of Peace**](https://www.facebook.com/donate/507886070680475/) - prepare first aid medical tactical backpacks for paramedics and doctors on the front lines
