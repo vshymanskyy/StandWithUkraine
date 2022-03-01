@@ -6,7 +6,3 @@ Please opt-in for monthly payment, if possible.
 - [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) - provide humanitarian relief to Ukrainians affected by the conflict
 - [**Sunflower of Peace**](https://www.facebook.com/donate/507886070680475/) - prepare first aid medical tactical backpacks for paramedics and doctors on the front lines
 - [**Voices of Children**](https://voices.org.ua/en/) - get food, water, hygiene kits, cash, and psychosocial support to children and families
-
-## News and media
-- [**The Kyiv Independent**](https://kyivindependent.com/about/) - support Ukraine’s English-language media outlet through [GoFundMe](https://www.gofundme.com/f/kyivindependent-launch) or via [Patreon](https://www.patreon.com/kyivindependent)
-- [**Nurnberg 2022**](https://www.nurnberg2022.org/en) - facts about the crimes of Putin's army against the civilian population of Ukraine (**18+, greasy images, violence**)
