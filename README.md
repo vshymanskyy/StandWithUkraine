@@ -13,7 +13,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - Demand severe sanctions against Russia and support for Ukraine from your leaders
 - Cancel any business with Russian companies (stop supporting Russian economy, and reduce your own risks)
 - Reach out to Ukrainian friends, offer help
-- Get rid of Russian software, dependencies and infrastructure
+- Get rid of Russian [**software, dependencies and infrastructure**](docs/Boycott.md)
 - [**Donate**](/docs/Donate.md) to Ukrainian charities
 - Protest against war. **Don’t be silent**
 
