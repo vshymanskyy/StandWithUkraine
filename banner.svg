@@ -30,7 +30,7 @@ svg|a:hover > text, svg|a:active > text {
 }
 
 .bg {
-  fill: #F0F0F0;
+  fill: #f6f8fa;
 }
   </style>
   
