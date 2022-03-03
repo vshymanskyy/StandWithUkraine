@@ -31,7 +31,13 @@ svg|a:hover > text, svg|a:active > text {
 
 .bg {
   fill: #f6f8fa;
-  stroke: #e1e6ea;
+  stroke: #d0d7de;
+  stroke-width: 0.8px;
+}
+
+.hashtag {
+  font-size: 18px;
+  fill: #57606a;
 }
   </style>
   
@@ -57,5 +63,10 @@ svg|a:hover > text, svg|a:active > text {
             text-anchor="middle">Donate to charity</text>
     </a>
   </g>
+  
+  <text x="1020" y="180" class="hashtag"
+        text-anchor="end">
+      #StandWithUkraine 🇺🇦
+  </text>
 
 </svg>
