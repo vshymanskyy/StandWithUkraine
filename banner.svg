@@ -31,10 +31,11 @@ svg|a:hover > text, svg|a:active > text {
 
 .bg {
   fill: #f6f8fa;
+  stroke: #e1e6ea;
 }
   </style>
   
-  <rect x="0"  y="0" width="100%" height="100%" rx="10" class="bg"/>
+  <rect x="0"  y="0" width="100%" height="100%" rx="7" class="bg"/>
 
   <text x="0" y="30" font-size="20" dy="0">
     <tspan x="20" dy=".6em">This software was developed with substantial support of Ukrainian developers.</tspan>
