@@ -1,8 +1,6 @@
 # #StandWithUkraine 🇺🇦
 
-The Russian invasion of Ukraine breaches international law, including the United Nations Charter. It is an unprovoked, unjustifiable, and despicable action that is killing countless civilians.
-
-## 🚧 This is work in progress 🚧
+![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
 
 This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.
 
