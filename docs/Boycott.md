@@ -1,12 +1,9 @@
 # Russian IT products to boycott
 
-This list also features companies that:
-- Have large offices operating in Russia.
-- Are Russian taxpayers
-
-1. Tilda
-2. Nginx
-3. Kaspersky Lab
+1. **Everything in `.ru` and `.su` domains** is most probably a Russian business
+2. Tilda
+3. Nginx
+4. Kaspersky Lab
 6. JetBrains
 7. Luxoft
 8. EPAM Systems
@@ -31,11 +28,14 @@ This list also features companies that:
 27. Joom
 28. SAP Archivelink
 29. Zillion Whales
-30. SRE Google
 31. T-System
 32. Avito
 33. Wheely
 34. S7 cargo
+
+This list also features companies that:
+- Have large offices operating in Russia
+- Are Russian taxpayers
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
