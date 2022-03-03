@@ -32,6 +32,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. Skyeng
 0. T-Systems CIS
 0. TamoSoft
+0. Telegram
 0. Tilda
 0. VK (VKontakte)
 0. Voximplant
