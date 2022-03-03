@@ -1,6 +1,8 @@
 # Russian IT products to boycott
 
-This list also features companies that have large offices operating in Russia.
+This list also features companies that:
+- Have large offices operating in Russia.
+- Are Russian taxpayers
 
 1. Tilda
 2. Nginx
