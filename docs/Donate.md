@@ -7,3 +7,5 @@ Please opt-in for monthly payment, if possible.
 - [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) - provide humanitarian relief to Ukrainians affected by the conflict
 - [**Sunflower of Peace**](https://www.facebook.com/donate/507886070680475/) - prepare first aid medical tactical backpacks for paramedics and doctors on the front lines
 - [**Voices of Children**](https://voices.org.ua/en/) - get food, water, hygiene kits, cash, and psychosocial support to children and families
+- [**Territory of Kindness**](https://vuf-td.space/) - provide support to children , army , and medical-supply
+- [**People In Need**](https://www.peopleinneed.net/donate/once) - focuses on providing food, clean water, and hygienic products to those impacted by Russian aggression
