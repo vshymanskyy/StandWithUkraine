@@ -17,6 +17,16 @@ Or banner with a direct link:
 ](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
+## Badge
+
+[![StandWithUkraine](https://img.shields.io/badge/-%F0%9F%87%BA%F0%9F%87%A6%20%23StandWithUkraine-white)
+](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+```md
+[![StandWithUkraine](https://img.shields.io/badge/-%F0%9F%87%BA%F0%9F%87%A6%20%23StandWithUkraine-white)
+](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+```
+
 
 Projects that **#StandWithUkraine**:
 - [Wasm3](https://github.com/wasm3/wasm3) - WebAssembly engine
