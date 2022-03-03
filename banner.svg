@@ -5,34 +5,36 @@
 svg {
   font-family: BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
+
 svg|a:link, svg|a:visited {
   cursor: pointer;
 }
 
 svg|a text {
-  fill: black;
+  fill: white;
+  font-size: 18px;
 }
 
 svg|a:hover > .button, svg|a:active > .button {
-  fill: black;
+  fill: white;
+  stroke: black;
 }
 
 svg|a:hover > text, svg|a:active > text {
-  fill: white;
+  fill: black;
 }
 
 .button {
-  stroke: black;
-  fill: white;
+  stroke: white;
+  fill: black;
 }
 
 .bg {
-  stroke: #555;
-  fill: #F8F8F8;
+  fill: #F0F0F0;
 }
   </style>
   
-  <rect x="0"  y="0" width="100%" height="100%" rx="5" class="bg"/>
+  <rect x="0"  y="0" width="100%" height="100%" rx="10" class="bg"/>
 
   <text x="0" y="30" font-size="20" dy="0">
     <tspan x="20" dy=".6em">This software was developed with substantial support of Ukrainian developers.</tspan>
@@ -56,5 +58,3 @@ svg|a:hover > text, svg|a:active > text {
   </g>
 
 </svg>
-
-
