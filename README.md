@@ -19,11 +19,11 @@ Or banner with a direct link:
 
 ## Badge
 
-[![StandWithUkraine](https://img.shields.io/badge/-%F0%9F%87%BA%F0%9F%87%A6%20%23StandWithUkraine-white)
+[![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)
 ](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 ```md
-[![StandWithUkraine](https://img.shields.io/badge/-%F0%9F%87%BA%F0%9F%87%A6%20%23StandWithUkraine-white)
+[![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)
 ](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
