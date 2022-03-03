@@ -33,5 +33,5 @@ This list also features companies that have large offices operating in Russia.
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
-- The list is still being verified. There may be false positives please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new)
+- The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
 - Companies will be removed from the list if there's copmelling evidence of them suspending operations in Russia
