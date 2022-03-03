@@ -28,7 +28,8 @@ Or banner with a direct link:
 ```
 
 
-Projects that **#StandWithUkraine**:
+## Projects that #StandWithUkraine
+
 - [Wasm3](https://github.com/wasm3/wasm3) - WebAssembly engine
 - [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
 - **TODO:** add more
