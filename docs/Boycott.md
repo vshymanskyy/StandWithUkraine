@@ -11,30 +11,31 @@ This list also features companies that:
 7. Luxoft
 8. EPAM Systems
 9. Voximplant
-10. Revolut
-11. Miro
-12. Readymag
-13. 1C Company
-14. Ozon
-15. hh
-16. WinRAR
-17. Yandex (Яндекс, all products)
-18. Skillbox
-19. VK
-20. X5 Group
-21. ManyChat
-22. Beeline
-23. WARGAMING
-24. HTML Academy
-25. Skyeng
-26. Joom
-27. SAP Archivelink
-28. Zillion Whales
-29. SRE Google
-30. T-System
-31. Avito
-32. Wheely
-33. S7 cargo
+10. Maps.me
+11. Revolut
+12. Miro
+13. Readymag
+14. 1C Company
+15. Ozon
+16. hh
+17. WinRAR
+18. Yandex (Яндекс, all products)
+19. Skillbox
+20. VK
+21. X5 Group
+22. ManyChat
+23. Beeline
+24. WARGAMING
+25. HTML Academy
+26. Skyeng
+27. Joom
+28. SAP Archivelink
+29. Zillion Whales
+30. SRE Google
+31. T-System
+32. Avito
+33. Wheely
+34. S7 cargo
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
