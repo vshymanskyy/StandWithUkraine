@@ -1,36 +1,41 @@
 # Russian IT products to boycott
 
 1. **Everything in `.ru` and `.su` domains** is most probably a Russian business
-3. Tilda
+2. Tilda
+3. FastReport
 4. Nginx
-5. Kaspersky Lab
-6. JetBrains
-7. Luxoft
-8. EPAM Systems
-9. Voximplant
-10. Maps.me
-12. Miro
-13. Readymag
-14. 1C Company
-15. Ozon
-16. hh
-17. WinRAR
-18. Yandex (Яндекс, all products)
-19. Skillbox
-20. VK
-21. X5 Group
-22. ManyChat
-23. Beeline
-24. WARGAMING
-25. HTML Academy
-26. Skyeng
-27. Joom
-28. SAP Archivelink
-29. Zillion Whales
-31. T-System
-32. Avito
-33. Wheely
-34. S7 cargo
+5. TamoSoft
+6. Elcomsoft
+7. ivi.ru
+8. Kaspersky Lab
+9. JetBrains
+10. Luxoft
+11. EPAM Systems
+12. Voximplant
+13. Maps.me
+14. Miro
+15. Readymag
+16. 1C Company
+17. Bitrix
+18. Ozon
+19. hh
+20. WinRAR
+21. Yandex (Яндекс, all products)
+22. Skillbox
+23. VK
+24. X5 Group
+25. ManyChat
+26. Beeline
+27. WARGAMING
+28. HTML Academy
+29. Skyeng
+30. Joom
+31. SAP Archivelink
+32. Zillion Whales
+33. T-System
+34. Avito
+35. Wheely
+36. S7 cargo
 
 This list also features companies that:
 - Have large offices operating in Russia
