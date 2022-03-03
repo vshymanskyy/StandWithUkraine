@@ -1,8 +1,8 @@
 # #StandWithUkraine 🇺🇦
 
-![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
+This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this:
 
-This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation.
+![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
 
 ## Help Ukraine
 
@@ -24,3 +24,14 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 ## For foreign warriors
 
 Foreign warriors who are willing to join the resistance can [join](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) the International Legion of Territorial Defense
+
+## Add banner to your project
+
+Edit your **`README.md`** and add this line:
+```md
+![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
+```
+
+Projects using **#StandWithUkraine** banners include:
+- [Wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
+- **TODO:** add more
