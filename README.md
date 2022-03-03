@@ -12,7 +12,8 @@ Edit your **`README.md`** and add this line:
 ```
 
 Projects that **#StandWithUkraine**:
-- [Wasm3](https://github.com/wasm3/wasm3) - 🚀 The fastest WebAssembly interpreter, and the most universal runtime
+- [Wasm3](https://github.com/wasm3/wasm3) - WebAssembly engine
+- [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
 - **TODO:** add more
 
 ## Help Ukraine
