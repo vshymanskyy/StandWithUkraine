@@ -1,15 +1,14 @@
 # Russian IT products to boycott
 
 1. **Everything in `.ru` and `.su` domains** is most probably a Russian business
-2. Tilda
-3. Nginx
-4. Kaspersky Lab
+3. Tilda
+4. Nginx
+5. Kaspersky Lab
 6. JetBrains
 7. Luxoft
 8. EPAM Systems
 9. Voximplant
 10. Maps.me
-11. Revolut
 12. Miro
 13. Readymag
 14. 1C Company
@@ -41,3 +40,6 @@ This list also features companies that:
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
 - The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
 - Companies will be removed from the list if there's copmelling evidence of them suspending operations in Russia
+
+## Whitelist (These are closing offices, suspending operations, etc.)
+- Revolut
