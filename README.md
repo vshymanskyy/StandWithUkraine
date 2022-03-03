@@ -10,9 +10,9 @@ Edit your **`README.md`** and add this line (for an interactive banner):
 ```md
 ![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
 ```
-Or banner with a direct link:
+Or banner with a direct, single link:
 ```md
-[![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
 ## Badge

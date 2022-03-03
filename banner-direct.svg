@@ -1,0 +1,66 @@
+<svg viewBox="0 0 1040 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+@namespace svg url(http://www.w3.org/2000/svg);
+
+svg {
+  font-family: BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+svg|a:link, svg|a:visited {
+  cursor: pointer;
+}
+
+svg|a text {
+  fill: white;
+  font-size: 18px;
+}
+
+svg|a:hover > .button, svg|a:active > .button {
+  fill: white;
+  stroke: black;
+}
+
+svg|a:hover > text, svg|a:active > text {
+  fill: black;
+}
+
+.button {
+  stroke: white;
+  fill: black;
+}
+
+.bg {
+  fill: #f6f8fa;
+  stroke: #d0d7de;
+  stroke-width: 0.8px;
+}
+
+.hashtag {
+  font-size: 18px;
+  fill: #57606a;
+}
+  </style>
+  
+  <rect x="0"  y="0" width="100%" height="100%" rx="6" class="bg"/>
+
+  <text x="0" y="30" font-size="20" dy="0">
+    <tspan x="20" dy=".6em">This software was developed with a substantial support of Ukrainian developers.</tspan>
+    <tspan x="20" dy="1.2em">The Russian invasion of Ukraine breaches international law, including the United Nations Charter.</tspan>
+    <tspan x="20" dy="1.2em">It is an unprovoked, unjustifiable, and despicable action that is killing countless civilians.</tspan>
+  </text>
+
+  <g>
+    <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
+        <rect x="50"  y="130" width="300" height="40" rx="6" class="button"/>
+        <text x="200" y="150"
+            dominant-baseline="middle"
+            text-anchor="middle">How can I help Ukraine?</text>
+    </a>
+  </g>
+
+  <text x="1020" y="180" class="hashtag"
+        text-anchor="end">
+      #StandWithUkraine 🇺🇦
+  </text>
+
+</svg>
