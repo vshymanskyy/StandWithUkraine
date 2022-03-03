@@ -56,5 +56,5 @@ This list also features companies that:
 - The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
 - Companies will be removed from the list if there's copmelling evidence of them suspending operations in Russia
 
-## Whitelist (These are closing offices, suspending operations, etc.)
+## Whitelist (closing offices, suspending operations, etc.)
 - Revolut
