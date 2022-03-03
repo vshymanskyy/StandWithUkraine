@@ -2,8 +2,7 @@
 
 This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this:
 
-[![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
-](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
 
 ## Add banner to your project
 
@@ -13,18 +12,15 @@ Edit your **`README.md`** and add this line (for an interactive banner):
 ```
 Or banner with a direct link:
 ```md
-[![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
-](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
 ## Badge
 
-[![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)
-](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 ```md
-[![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)
-](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
 
