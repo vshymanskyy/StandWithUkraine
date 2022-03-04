@@ -24,16 +24,14 @@ Or an interactive banner (requires 2 clicks, unfortunately):
 
 [![StandWithUkraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-```md
-[![StandWithUkraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-```
-
----
-
-[![StandWithUkraine](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20warship-go%20fuck%20yourself-blue)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![RussianWarship](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20warship-go%20fuck%20yourself-blue)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 ```md
-[![StandWithUkraine](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20warship-go%20fuck%20yourself-blue)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+StandWithUkraine:
+[![Stand With Ukraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+Russian Warship:
+[![RussianWarship](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20warship-go%20fuck%20yourself-blue)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
 ## Projects that #StandWithUkraine
