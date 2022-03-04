@@ -10,13 +10,14 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 ## Add banner to your project
 
-Edit your **`README.md`** and add this line (for an interactive banner):
-```md
-![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
-```
-Or banner with a direct, single link:
+Edit your **`README.md`** and add this line (for an direct link banner):
 ```md
 [![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+```
+
+Or an interactive banner (requires 2 clicks, unfortunately):
+```md
+![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
 ```
 
 ## Badges
