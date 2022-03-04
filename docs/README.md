@@ -1,6 +1,6 @@
 ## Help Ukraine
 
-- [**Donate**](/docs/Donate.md) to Ukrainian charities
+- **[Donate](/docs/Donate.md) to Ukrainian charities. This is easy and direct way to help.**
 - Educate yourself and others on the Russian threat, read [**reputable news**](/docs/WarNews.md)
 - Check out [**common misbeliefs**](/docs/Misconceptions.md)
 - Demand severe sanctions against Russia and support for Ukraine from your leaders
