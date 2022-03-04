@@ -7,7 +7,6 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. Beeline
 0. Bitrix
 0. Dr.Web
-0. EPAM Systems
 0. Elcomsoft
 0. FaceApp
 0. Fast Reports, Inc
@@ -58,3 +57,4 @@ This list also features companies that:
 
 ## Whitelist (closing offices, suspending operations, etc.)
 - Revolut
+- EPAM Systems
