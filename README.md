@@ -19,7 +19,7 @@ Or banner with a direct, single link:
 [![StandWithUkraine banner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
-## Badge
+## Badges
 
 [![StandWithUkraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
@@ -27,6 +27,11 @@ Or banner with a direct, single link:
 [![StandWithUkraine](https://img.shields.io/badge/%23StandWithUkraine-%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
+[![StandWithUkraine](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20warship-go%20fuck%20yourself-blue)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+
+```md
+[![StandWithUkraine](https://img.shields.io/badge/%F0%9F%87%B7%F0%9F%87%BA%20warship-go%20fuck%20yourself-blue)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+```
 
 ## Projects that #StandWithUkraine
 
