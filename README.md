@@ -36,4 +36,5 @@ Russian Warship:
 
 - [Wasm3](https://github.com/wasm3/wasm3) - WebAssembly engine
 - [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - **TODO:** add more
