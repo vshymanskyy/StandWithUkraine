@@ -9,7 +9,7 @@ Please opt-in for monthly payment, if possible.
 - [**Voices of Children**](https://voices.org.ua/en/) - get food, water, hygiene kits, cash, and psychosocial support to children and families
 - [**Territory of Kindness**](https://vuf-td.space/en/) - provide support to children , army , and medical-supply
 - [**People In Need**](https://www.peopleinneed.net/donate/once) (select `SOS Ukraine`) - focuses on providing food, clean water, and hygienic products to those impacted by Russian aggression
-- [**Raise Funds for Ukraine’s Armed Forces**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi), special account opened by Ukrainian National Bank
+- [**Raise Funds for Ukraine’s Armed Forces**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) - special account opened by Ukrainian National Bank
 
 ## Other ways to help
 
