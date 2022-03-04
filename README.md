@@ -38,4 +38,7 @@ Russian Warship:
 - [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - A small Arduino library for GSM modules, that just works
+- [wasm2native](https://github.com/vshymanskyy/wasm2native) - Turn WASI apps into native executables
+- [node-wasm-run](https://github.com/wasm3/node-wasm-run) - Run arbitrary WASM/WASI files
+- [embedded-wasm-apps](https://github.com/wasm3/embedded-wasm-apps) - Statically-compiled WebAssembly apps on any embedded platform
 - **TODO:** add more
