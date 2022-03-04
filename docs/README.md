@@ -5,7 +5,8 @@
 - Cancel any business with [**Russian companies**](/docs/Boycott.md) (stop supporting Russian economy, and reduce your own risks)
 - Reach out to Ukrainian friends, offer help
 - Get rid of Russian [**software, dependencies and infrastructure**](/docs/Boycott.md)
-- Educate yourself and others on the Russian threat, read [**reputable news**](/docs/WarNews.md). Check out [**common misbeliefs**](/docs/Misconceptions.md). Protest against war. **Don’t be silent**
+- Educate yourself and others on the Russian threat, read [**reputable news**](/docs/WarNews.md). Check out [**common misbeliefs**](/docs/Misconceptions.md).
+- Protest against war. **Don’t be silent**
 
 ## For Russian citizens
 
