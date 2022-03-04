@@ -29,6 +29,14 @@ svg|a:hover > text, svg|a:active > text {
   fill: #24292f;
 }
 
+.flag-blue {
+  fill: #005eb8;
+}
+
+.flag-yellow {
+  fill: #ffd101;
+}
+
 .bg {
   fill: #f6f8fa;
   stroke: #d0d7de;
@@ -37,13 +45,15 @@ svg|a:hover > text, svg|a:active > text {
 
 .hashtag {
   font-size: 18px;
-  fill: #57606a;
+  fill: white;
 }
   </style>
   
-  <rect x="0"  y="0" width="100%" height="100%" rx="6" class="bg"/>
+  <rect x="0" y="0" width="100%" height="100%" class="flag-blue"/>
 
-  <text x="0" y="30" font-size="20" dy="0">
+  <rect x="0" y="0" width="100%" height="55%" class="flag-yellow"/>
+
+  <text x="0" y="25" font-size="20" dy="0">
     <tspan x="20" dy=".6em">This software was developed with a substantial support of Ukrainian developers.</tspan>
     <tspan x="20" dy="1.2em">The Russian invasion of Ukraine breaches international law, including the United Nations Charter.</tspan>
     <tspan x="20" dy="1.2em">It is an unprovoked, unjustifiable, and despicable action that is killing countless civilians.</tspan>
@@ -60,7 +70,7 @@ svg|a:hover > text, svg|a:active > text {
 
   <text x="1020" y="180" class="hashtag"
         text-anchor="end">
-      #StandWithUkraine 🇺🇦
+      #StandWithUkraine
   </text>
 
 </svg>
