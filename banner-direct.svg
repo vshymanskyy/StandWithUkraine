@@ -17,16 +17,16 @@ svg|a text {
 
 svg|a:hover > .button, svg|a:active > .button {
   fill: white;
-  stroke: black;
+  stroke: #24292f;
 }
 
 svg|a:hover > text, svg|a:active > text {
-  fill: black;
+  fill: #24292f;
 }
 
 .button {
   stroke: white;
-  fill: black;
+  fill: #24292f;
 }
 
 .bg {

@@ -17,16 +17,16 @@ svg|a text {
 
 svg|a:hover > .button, svg|a:active > .button {
   fill: white;
-  stroke: black;
+  stroke: #24292f;
 }
 
 svg|a:hover > text, svg|a:active > text {
-  fill: black;
+  fill: #24292f;
 }
 
 .button {
   stroke: white;
-  fill: black;
+  fill: #24292f;
 }
 
 .bg {
@@ -63,7 +63,7 @@ svg|a:hover > text, svg|a:active > text {
             text-anchor="middle">Donate to charity</text>
     </a>
   </g>
-  
+
   <text x="1020" y="180" class="hashtag"
         text-anchor="end">
       #StandWithUkraine 🇺🇦
