@@ -1,4 +1,4 @@
-# Donate to support Ukraine (only verified charities)
+## Donate to support Ukraine (only verified charities)
 
 Please opt-in for monthly payment, if possible.
 
