@@ -1,13 +1,11 @@
 ## Help Ukraine
 
 - **[Please DONATE to verified charities.](/docs/Donate.md) This is an easy, quick and direct way to help**
-- Educate yourself and others on the Russian threat, read [**reputable news**](/docs/WarNews.md)
-- Check out [**common misbeliefs**](/docs/Misconceptions.md)
 - Demand severe sanctions against Russia and support for Ukraine from your leaders
 - Cancel any business with [**Russian companies**](/docs/Boycott.md) (stop supporting Russian economy, and reduce your own risks)
 - Reach out to Ukrainian friends, offer help
 - Get rid of Russian [**software, dependencies and infrastructure**](/docs/Boycott.md)
-- Protest against war. **Don’t be silent**
+- Educate yourself and others on the Russian threat, read [**reputable news**](/docs/WarNews.md). Check out [**common misbeliefs**](/docs/Misconceptions.md). Protest against war. **Don’t be silent**
 
 ## For Russian citizens
 
