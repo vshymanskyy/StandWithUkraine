@@ -16,4 +16,4 @@
 
 ## For foreign warriors
 
-Foreign warriors who are willing to join the resistance can [join](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html) the International Legion of Territorial Defense
+Foreign warriors who are willing to join the resistance can [join the International Legion of Territorial Defense](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
