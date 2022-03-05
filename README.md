@@ -11,6 +11,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 1. [Add banner](/docs/AddBanner.md) (or a badge) to your **`README.md`**
 2. Get rid of [Russian software and dependencies](/docs/Boycott.md)
 3. Deliver [a message](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/ToRussianPeople.md) to your users (esp. those in Russia) along with your next release. See [example here](https://github.com/vshymanskyy/StandWithUkraine/issues/4)
+4. Follow the [cyber safety guide](/docs/CyberSafety.md)
 
 ## Projects that #StandWithUkraine
 
