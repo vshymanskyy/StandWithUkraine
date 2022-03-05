@@ -23,10 +23,3 @@ Please opt-in for monthly payment, if possible.
 ## For foreign warriors
 
 Foreign warriors who are willing to join the resistance can [join the International Legion of Territorial Defense](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
-
-
-[1]: <https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P7K2MSZDGFMIJPDD7CI2GIROJI.jpg> "Kharkiv under attack"
-[2]: <https://gdb.voanews.com/01bd0000-0aff-0242-fad0-08d9fc92c5b3_cx0_cy5_cw0_w1023_r1_s.jpg> "Kyiv under attack"
-[3]: <https://ichef.bbci.co.uk/news/976/cpsprodpb/163DD/production/_123510119_hi074310744.jpg> "Chernihiv under attack"
-[4]: <https://www.youtube.com/watch?v=8K-bkqKKf2A> "Sumy under attack"
-[5]: <https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K4MTMLEHTRKGFK3GSKAT4GR3NE.jpg> "Irpin under attack"
