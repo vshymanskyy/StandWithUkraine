@@ -1,4 +1,4 @@
-## 🇷🇺 Русским Гражданам: [Обращение](/docs/ToRussianPeople.md)
+## 🇷🇺 Русским Гражданам: [обращение](/docs/ToRussianPeople.md)
 
 ## Donate to support Ukraine (only verified charities)
 
