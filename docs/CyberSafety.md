@@ -1,3 +1,5 @@
+Along with the physical invasion of Ukraine, Russia is also going crazy with it's cyber attacks.  
+Here is a list of simple, yet effective counter-measures:
 
 1. Change passwords on mail, social accounts, etc.
 2. Use a password manager, to ensure your passwords are not reused
