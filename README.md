@@ -49,4 +49,4 @@ Russian Warship:
 - [mailamie](https://github.com/micc83/mailamie) - A simple SMTP catch all server for testing written in PHP.
 - [ReStable](https://github.com/micc83/ReStable) - jQuery plugin that makes tables responsive converting them to HTML lists.
 
-## 🇷🇺 Русским Гражданам: [обращение](/docs/ToRussianPeople.md)
+## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
