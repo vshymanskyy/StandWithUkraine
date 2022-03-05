@@ -1,5 +1,3 @@
-## 🇷🇺 Русским Гражданам: [обращение](/docs/ToRussianPeople.md)
-
 ## Donate to support Ukraine (only verified charities)
 
 Please opt-in for monthly payment, if possible.
@@ -25,3 +23,5 @@ Please opt-in for monthly payment, if possible.
 ## For foreign warriors
 
 Foreign warriors who are willing to join the resistance can [join the International Legion of Territorial Defense](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
+
+## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
