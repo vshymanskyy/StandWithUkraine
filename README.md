@@ -45,3 +45,4 @@ Russian Warship:
 - [easy-upload](https://github.com/techmovie/easy-upload) - Reproducing torrents for mainstream Chinese and international private trackers sites
 - [php-vast](https://github.com/sokil/php-vast) - VAST Ad generator and parser library on PHP
 - [miband-js](https://github.com/vshymanskyy/miband-js) - A clean implementation of Mi Band 2 library for Browsers and Node.js, using WebBluetooth API
+- [vue-barcode-reader](https://github.com/olefirenko/vue-barcode-reader) - A Vue.js set of components to scan (or upload images) barcodes and QR codes
