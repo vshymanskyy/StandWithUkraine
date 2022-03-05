@@ -1,6 +1,10 @@
 
 1. Change passwords on mail, social accounts, etc.
-2. Enable 2FA (two-factor authentication) where possible
-3. Remove potentially harmful apps. At least, remove all unnecessary permissions in the app settings:
-   - **High risk:** Viber, Photolab, FaceApp
-   - **Medium risk:** Telegram
+2. Use a password manager, to ensure your passwords are not reused
+3. Enable 2FA (two-factor authentication) where possible
+4. Create an additional channel of communication with important contacts (i.e. Signal/Slack/Teams)
+5. Remove all Russian and potentially harmful apps from your smartphones and other equipment
+   - **High risk** (remove now):  
+     Viber, Photo Lab, FaceApp
+   - **Medium risk** (at least, **remove all unnecessary permissions** in the app settings):  
+     Telegram
