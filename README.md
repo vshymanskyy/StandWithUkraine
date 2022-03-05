@@ -18,6 +18,11 @@ Or an interactive banner (requires 2 clicks, unfortunately):
 ![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner.svg)
 ```
 
+Or an alternative banner (doesn't conain the `This software was developed with a substantial support of Ukrainian developers.` phrase):
+```md
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+```
+
 ## Badges
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
