@@ -22,10 +22,19 @@ Please opt-in for monthly payment, if possible.
 
 ## For Russian citizens
 
-🇷🇺 Если вы гражданин России, ознакомьтесь сами и осознайте происходящее, пересылайте информацию своим знакомым, а также – чиновникам, местным депутатам, журналистам, семьям военнослужащих. Комментируйте в соцсетях, особенно под лживыми сообщениями, что в Украине ведется всего лишь «ограниченная военная операция» и гражданское население не страдает. Все должны знать правду!
+🇷🇺 В Украине сейчас идет война. Силами РФ наносятся удары по гражданской инфраструктуре в [Харькове][1], [Киеве][2], [Бородянке][3], [Ирпене][4], и десятках других городов. Гибнут люди - и гражданское население, и военные, в том числе российские призывники, которых бросили воевать. Чтобы лишить собственный народ доступа к информации, правительство РФ запретило называть войну войной, закрыло независимые СМИ и принимает сейчас ряд диктаторских законов. Эти законы призваны заткнуть рот всем, кто против войны. За обычный призыв к миру сейчас можно получить до пяти лет тюрьмы.
+
+Не молчите! Молчание - знак вашего согласия с политикой российского правительства.  
+**Вы можете сделать выбор НЕ МОЛЧАТЬ.**
 
 🇺🇸 If you are a citizen of Russia, realize and understand what is happening, send information to your friends, as well as officials, local deputies, journalists, families of military personnel. Comment on social media, especially under the false reports that there is just a “limited military operation” going on in Ukraine and that civilian population is not suffering. Everyone must know the truth!
 
 ## For foreign warriors
 
 Foreign warriors who are willing to join the resistance can [join the International Legion of Territorial Defense](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
+
+
+[1]: <https://cloudfront-us-east-2.images.arcpublishing.com/reuters/P7K2MSZDGFMIJPDD7CI2GIROJI.jpg> "Kharkiv under attack"
+[2]: <https://gdb.voanews.com/01bd0000-0aff-0242-fad0-08d9fc92c5b3_cx0_cy5_cw0_w1023_r1_s.jpg> "Kyiv under attack"
+[3]: <https://storage1b.censor.net/images/a/3/c/c/a3cc326d7974e0dae1a10e0bbaffaf02/original.jpg> "Borodianka under attack"
+[4]: <https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K4MTMLEHTRKGFK3GSKAT4GR3NE.jpg> "Irpin under attack"
