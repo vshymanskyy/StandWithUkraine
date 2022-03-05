@@ -48,5 +48,6 @@ Russian Warship:
 - [vue-barcode-reader](https://github.com/olefirenko/vue-barcode-reader) - A Vue.js set of components to scan (or upload images) barcodes and QR codes
 - [mailamie](https://github.com/micc83/mailamie) - A simple SMTP catch all server for testing written in PHP.
 - [ReStable](https://github.com/micc83/ReStable) - jQuery plugin that makes tables responsive converting them to HTML lists.
+- [phpbench](https://github.com/phpbench/phpbench) - PHPBench is a benchmark runner for PHP analogous to PHPUnit but for performance rather than correctness.
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
