@@ -1,3 +1,5 @@
+## 🇷🇺 Русским Гражданам: [Обращение](/docs/ToRussianPeople.md)
+
 ## Donate to support Ukraine (only verified charities)
 
 Please opt-in for monthly payment, if possible.
