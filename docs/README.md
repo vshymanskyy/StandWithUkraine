@@ -28,8 +28,9 @@ Please opt-in for monthly payment, if possible.
 **Вы можете сделать выбор НЕ МОЛЧАТЬ.**
 
 🇺🇸 There is a war in Ukraine right now. The forces of the Russian Federation are attacking civilian infrastructure in [Kharkiv][1], [Kyiv][2], [Chernihiv][3], [Sumy][4], [Irpin][5] and dozens of other cities. People are dying – both civilians and military servicemen, including Russian conscripts who were thrown into the fighting. In order to deprive its own people of access to information, the government of the Russian Federation has forbidden calling a war a war, shut down independent media and is passing a number of dictatorial laws. These laws are meant to silence all those who are against war. You can be jailed for up to five years for simply calling for peace.
-Do not be silent! Silence is a sign that you accept the Russian government's policy.
-You can choose NOT TO BE SILENT.  
+
+Do not be silent! Silence is a sign that you accept the Russian government's policy.  
+**You can choose NOT TO BE SILENT.**
 
 ## For foreign warriors
 
