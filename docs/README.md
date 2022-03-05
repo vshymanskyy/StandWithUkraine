@@ -20,18 +20,6 @@ Please opt-in for monthly payment, if possible.
 - Educate yourself and others on the Russian threat, read [**reputable news**](/docs/WarNews.md). Check out [**common misbeliefs**](/docs/Misconceptions.md).
 - Protest against war. **Don’t be silent**
 
-## For Russian citizens
-
-🇷🇺 В Украине сейчас идет война. Силами РФ наносятся удары по гражданской инфраструктуре в [Харькове][1], [Киеве][2], [Чернигове][3], [Сумах][4], [Ирпене][5] и десятках других городов. Гибнут люди - и гражданское население, и военные, в том числе российские призывники, которых бросили воевать. Чтобы лишить собственный народ доступа к информации, правительство РФ запретило называть войну войной, закрыло независимые СМИ и принимает сейчас ряд диктаторских законов. Эти законы призваны заткнуть рот всем, кто против войны. За обычный призыв к миру сейчас можно получить до пяти лет тюрьмы.
-
-Не молчите! Молчание - знак вашего согласия с политикой российского правительства.  
-**Вы можете сделать выбор НЕ МОЛЧАТЬ.**
-
-🇺🇸 There is a war in Ukraine right now. The forces of the Russian Federation are attacking civilian infrastructure in [Kharkiv][1], [Kyiv][2], [Chernihiv][3], [Sumy][4], [Irpin][5] and dozens of other cities. People are dying – both civilians and military servicemen, including Russian conscripts who were thrown into the fighting. In order to deprive its own people of access to information, the government of the Russian Federation has forbidden calling a war a war, shut down independent media and is passing a number of dictatorial laws. These laws are meant to silence all those who are against war. You can be jailed for up to five years for simply calling for peace.
-
-Do not be silent! Silence is a sign that you accept the Russian government's policy.  
-**You can choose NOT TO BE SILENT.**
-
 ## For foreign warriors
 
 Foreign warriors who are willing to join the resistance can [join the International Legion of Territorial Defense](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
