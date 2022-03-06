@@ -28,7 +28,6 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. Lamoda
 0. Lebedev Studio
 0. LinguaLeo
-0. Luxoft
 0. ManyChat
 0. Maps.me
 0. Miro
@@ -77,4 +76,5 @@ This list also features companies that:
 
 ## Whitelist (closing offices, suspending operations, etc.)
 - Revolut
-- EPAM Systems
+- Luxoft
+- EPAM Systems (still unclear, their communication is lacking)
