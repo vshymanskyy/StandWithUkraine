@@ -19,6 +19,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Wasm3](https://github.com/wasm3/wasm3) - WebAssembly engine
 - [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [PlatformIO](https://github.com/platformio/platformio-core) - A professional collaborative platform for embedded development
 - [TinyGSM](https://github.com/vshymanskyy/TinyGSM) - A small Arduino library for GSM modules, that just works
 - [wasm2native](https://github.com/vshymanskyy/wasm2native) - Turn WASI apps into native executables
 - [node-wasm-run](https://github.com/wasm3/node-wasm-run) - Run arbitrary WASM/WASI files
