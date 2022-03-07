@@ -21,7 +21,6 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. HTML Academy
 0. HeadHunter (hh.ru)
 0. IVI (ivi.ru)
-0. JetBrains
 0. Joom
 0. Kaspersky Lab
 0. Kinopoisk
