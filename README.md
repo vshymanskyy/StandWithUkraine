@@ -33,5 +33,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [phpbench](https://github.com/phpbench/phpbench) - PHPBench is a benchmark runner for PHP analogous to PHPUnit but for performance rather than correctness.
 - [Codeception](https://github.com/Codeception/Codeception) - Codeception is a modern full-stack testing framework for PHP. Inspired by BDD
 - [PHPUnit](https://github.com/sebastianbergmann/phpunit) - PHPUnit is the most commonly used testing framework for PHP.
+- [Payum](https://github.com/Payum/Payum) - Payum is a PHP Payment processing library. It offers everything you need to work with payments
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
