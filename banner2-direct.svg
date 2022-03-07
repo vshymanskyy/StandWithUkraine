@@ -43,17 +43,21 @@ svg|a:hover > text, svg|a:active > text {
   stroke-width: 0.8px;
 }
 
+.message {
+  fill: white;
+}
+
 .hashtag {
   font-size: 18px;
-  fill: white;
+  fill: black;
 }
   </style>
   
-  <rect x="0" y="0" width="100%" height="100%" class="flag-blue"/>
+  <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
 
-  <rect x="0" y="0" width="100%" height="55%" class="flag-yellow"/>
+  <rect x="0" y="0" width="100%" height="55%" class="flag-blue"/>
 
-  <text x="0" y="25" font-size="20" dy="0">
+  <text x="0" y="25" font-size="20" dy="0" class="message">
     <tspan x="20" dy="1.2em">The Russian invasion of Ukraine breaches international law, including the United Nations Charter.</tspan>
     <tspan x="20" dy="1.2em">It is an unprovoked, unjustifiable, and despicable action that is killing countless civilians.</tspan>
   </text>
