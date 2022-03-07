@@ -55,26 +55,26 @@ svg|a:hover > text, svg|a:active > text {
   
   <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
 
-  <rect x="0" y="0" width="100%" height="55%" class="flag-blue"/>
+  <rect x="0" y="0" width="100%" height="110px" class="flag-blue"/>
 
   <text x="0" y="25" font-size="20" dy="0" class="message">
     <tspan x="20" dy=".6em">This software was developed with a substantial support of Ukrainian developers.</tspan>
-    <tspan x="20" dy="1.2em">The Russian invasion of Ukraine breaches international law, including the United Nations Charter.</tspan>
-    <tspan x="20" dy="1.2em">It is an unprovoked, unjustifiable, and despicable action that is killing countless civilians.</tspan>
+    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already killed thousands of civilians, including more than 40 children.</tspan>
+    <tspan x="20" dy="1.2em">The death toll is still counting. It is a war and we need your help. Let's stand together against the Russian regime.</tspan>
   </text>
 
   <g>
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
-        <rect x="50"  y="130" width="200" height="40" rx="6" class="button"/>
-        <text x="150" y="150"
+        <rect x="40"  y="135" width="200" height="40" rx="6" class="button"/>
+        <text x="140" y="155"
             dominant-baseline="middle"
             text-anchor="middle">Read more</text>
     </a>
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/Donate.md">
-        <rect x="270" y="130" width="200" height="40" rx="6" class="button"/>
-        <text x="370" y="150"
+        <rect x="260" y="135" width="200" height="40" rx="6" class="button"/>
+        <text x="360" y="155"
             dominant-baseline="middle"
-            text-anchor="middle">Donate to charity</text>
+            text-anchor="middle">Support Ukraine</text>
     </a>
   </g>
 
