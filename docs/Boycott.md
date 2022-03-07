@@ -68,7 +68,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 
 This list also features companies that:
 - Have large offices operating in Russia
-- Are Russian taxpayers
+- Are Russian taxpayers (thus sponsoring the war)
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
