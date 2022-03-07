@@ -34,5 +34,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Codeception](https://github.com/Codeception/Codeception) - Codeception is a modern full-stack testing framework for PHP. Inspired by BDD
 - [PHPUnit](https://github.com/sebastianbergmann/phpunit) - PHPUnit is the most commonly used testing framework for PHP.
 - [Payum](https://github.com/Payum/Payum) - Payum is a PHP Payment processing library. It offers everything you need to work with payments
+- [Soketi](https://github.com/soketi/soketi) - soketi is your simple, fast, and resilient open-source WebSockets server. 📣
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
