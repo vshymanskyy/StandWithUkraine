@@ -41,5 +41,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [PHPUnit](https://github.com/sebastianbergmann/phpunit) - PHPUnit is the most commonly used testing framework for PHP.
 - [Payum](https://github.com/Payum/Payum) - Payum is a PHP Payment processing library. It offers everything you need to work with payments.
 - [Soketi](https://github.com/soketi/soketi) - soketi is your simple, fast, and resilient open-source WebSockets server.
+- [Symfony](https://symfony.com/blog/symfony-stands-with-ukraine) - Symfony is a popular PHP framework
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
