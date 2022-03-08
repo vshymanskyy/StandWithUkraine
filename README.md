@@ -2,6 +2,10 @@
 [![GitHub issues](https://img.shields.io/github/issues/vshymanskyy/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/issues)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
+> **Update:** Just got some heartbreaking news. My house is reportedly destroyed by Russian Forces in Irpin.
+The R&D lab is gone. Our children have nowhere to return now. It's a pile of money, hard work and dedication.
+But I'm happy my family and friends are all safe.
+
 This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this:
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
