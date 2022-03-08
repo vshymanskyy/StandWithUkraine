@@ -16,6 +16,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. ElectroNeek
 0. Elementaree
 0. EpicGrowth
+0. Espressif
 0. FaceApp
 0. Fast Reports, Inc
 0. HTML Academy
