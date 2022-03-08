@@ -58,6 +58,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. WinRAR
 0. X5 Group
 0. Yandex (Яндекс, all products)
+0. Yclients
 0. ZenMoney
 0. Zillion Whales
 0. grc.ua (part of HeadHunter)
@@ -67,7 +68,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 
 This list also features companies that:
 - Have large offices operating in Russia
-- Are Russian taxpayers
+- Are Russian taxpayers (thus sponsoring the war)
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
