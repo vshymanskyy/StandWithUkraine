@@ -13,6 +13,7 @@ Please opt-in for monthly payment, if possible.
 
 ## Other ways to help
 
+- Help spreading the word. Add [**banners**](/README.md) to your projects.
 - Demand severe sanctions against Russia and support for Ukraine from your leaders
 - Cancel any business with [**Russian companies**](/docs/Boycott.md) (stop supporting Russian economy, and reduce your own risks)
 - Reach out to Ukrainian friends, offer help
