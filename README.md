@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/vshymanskyy/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/issues)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-> **Update 08.03.2022:** Just got some heartbreaking news. My house is reportedly destroyed by Russian Forces in Irpin.
+> **Update 08.03.2022:** Heartbreaking news. My own house is reportedly destroyed by Russian Forces in Irpin.
 The R&D lab is gone. Our children have nowhere to return now. It's a pile of money, hard work and dedication.  
 But I'm happy my family and friends are all safe.  
 Irpin is a peaceful city near Kyiv. Part of Irpin is currently occupied by russians. They are intentionally shooting civillians on the streets, invading and burning houses. Shops are being looted...
