@@ -49,6 +49,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. Telegram
 0. Tilda
 0. VK (VKontakte)
+0. Videoforce
 0. VividMoney
 0. Voximplant
 0. Wargaming (Belarusian)
