@@ -75,7 +75,7 @@ This list also features companies that:
 - The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
 - Companies will be removed from the list if there's copmelling evidence of them suspending operations in Russia
 
-## Whitelist (closing offices, suspending operations, etc.)
+## Allow list (closing offices, suspending operations, etc.)
 - Revolut
 - Luxoft
 - EPAM Systems (still unclear, their communication is lacking)
