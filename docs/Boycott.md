@@ -72,6 +72,10 @@ This list also features companies that:
 - Have large offices operating in Russia
 - Are Russian taxpayers (thus sponsoring the war)
 
+## Non-Russian companies to avoid
+
+1. **DJI** drones, [helps Russians to locate DJI operators in Ukraine](https://twitter.com/vshymanskyy/status/1501966844118372356)
+
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
 - The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
