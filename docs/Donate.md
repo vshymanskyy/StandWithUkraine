@@ -46,4 +46,4 @@ BENEFICIARY BANK NAME: DEUTSCHE  BUNDESBANK, Frankfurt
 BENEFICIARY BANK BIC: MARKDEFF
 BENEFICIARY BANK ADDRESS: Wilhelm-Epstein-Strasse 14, 60431 Frankfurt Am Main, Germany
 ```
-For other currencies, see [the link above](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
+For other currency, see [the link above](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
