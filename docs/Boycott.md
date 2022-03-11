@@ -41,6 +41,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. ROIStat
 0. Readymag
 0. S7 (cargo, airlines, etc)
+0. **Semrush**
 0. SkillFactory
 0. Skillbox
 0. Skyeng
@@ -79,35 +80,36 @@ This list also features companies that:
 
 Companies listed here are businesses operating in Russia that have taken definite actions to assert their support for Ukraine:
 
-- Revolut
+- **Revolut**
   - Statements:
     - [The war on Ukraine: our response](https://blog.revolut.com/the-war-on-ukraine-our-response) (26th Feb 2022)
   - Actions:
     - Relocated Ukrainian employees
     - Waived transfer fees for transactions to Ukraine
     - Facilitated over €1m in donations to Red Cross
-- Luxoft
+- **Luxoft**
   - Statements:
     - [Luxoft's response to the war in Ukraine](https://www.luxoft.com/pr/we-stand-united-with-ukraine) (8th Mar 2022)
   - Actions:
     - Provided a support package "worth millions of USD" to their Ukrainian employees
     - Donated $330k to Red Cross
-- SAP
+- **SAP**
   - Statements:
     - [Standing in Solidarity with Ukraine](https://news.sap.com/2022/03/standing-in-solidarity) (2nd Mar 2022)
   - Actions:
     - Allocated €1m in humanitarian support
-- JetBrains
+- **JetBrains**
   - Statements:
     - [Our hearts are with the Ukrainian people, including our own colleagues and their families](https://twitter.com/jetbrains/status/1496786254494670851) (24th Feb 2022)
     - [JetBrains’ Statement on Ukraine](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine) (11th Mar 2022)
   - Actions:
     - Suspended sales and R&D offices in Russia
     - Relocated Russian employees
-- Miro
+- **Miro**
     - [Miro statement on Ukraine](https://miro.com/blog/update-from-miro-team/)
     - Closes office in Russia
     - Pauses all new sales in Russia and Belarus
+- **Accenture**
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
