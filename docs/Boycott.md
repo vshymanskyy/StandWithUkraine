@@ -75,11 +75,26 @@ This list also features companies that:
 
 1. **DJI** drones, [helps Russians to locate DJI operators in Ukraine](https://twitter.com/vshymanskyy/status/1501966844118372356)
 
-## ALLOW LIST (closing offices, suspending operations, etc.)
+## Allow list
+
+Companies listed here are businesses operating in Russia that have taken definite actions to assert their support for Ukraine:
+
 - Revolut
+  - Statements:
+    - [The war on Ukraine: our response](https://blog.revolut.com/the-war-on-ukraine-our-response) (26th Feb 2022)
+  - Actions:
+    - Relocated Ukrainian employees
+    - Waived transfer fees for transactions to Ukraine
+    - Facilitated over €1m donations to Red Cross
 - Luxoft
 - SAP
 - JetBrains
+  - Statements:
+    - [Our hearts are with the Ukrainian people, including our own colleagues and their families](https://twitter.com/jetbrains/status/1496786254494670851) (24th Feb 2022)
+    - [JetBrains’ Statement on Ukraine](https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine) (11th Mar 2022)
+  - Actions:
+    - Suspended sales and R&D offices in Russia
+    - Relocated Russian employees
 - EPAM Systems (still unclear, their communication is lacking)
 
 ## Note!
