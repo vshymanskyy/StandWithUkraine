@@ -43,5 +43,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Soketi](https://github.com/soketi/soketi) - soketi is your simple, fast, and resilient open-source WebSockets server.
 - [Symfony](https://symfony.com/blog/symfony-stands-with-ukraine) - Symfony is a popular PHP framework
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+- [Awesome Crystal](https://github.com/veelenga/awesome-crystal) - A collection of awesome Crystal libraries, tools, frameworks and software
+- [Ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool for Crystal
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
