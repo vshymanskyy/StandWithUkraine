@@ -75,13 +75,13 @@ This list also features companies that:
 
 1. **DJI** drones, [helps Russians to locate DJI operators in Ukraine](https://twitter.com/vshymanskyy/status/1501966844118372356)
 
-## Note!
-- Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with lists of other products to add
-- The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
-- Companies will be removed from the list if there's copmelling evidence of them suspending operations in Russia
-
-## Allow list (closing offices, suspending operations, etc.)
+## ALLOW LIST (closing offices, suspending operations, etc.)
 - Revolut
 - Luxoft
 - SAP
 - EPAM Systems (still unclear, their communication is lacking)
+
+## Note!
+- Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
+- The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
+- Companies will be **moved to allow list** if there's copmelling evidence of them suspending operations in Russia
