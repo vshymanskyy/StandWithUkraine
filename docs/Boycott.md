@@ -32,6 +32,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. **Maps.me**
 0. **Miro**
 0. Netology
+0. **NextGIS**
 0. **Nginx**
 0. Ozon
 0. ProductStar
