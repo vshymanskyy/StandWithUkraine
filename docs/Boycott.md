@@ -87,7 +87,16 @@ Companies listed here are businesses operating in Russia that have taken definit
     - Waived transfer fees for transactions to Ukraine
     - Facilitated over €1m in donations to Red Cross
 - Luxoft
+  - Statements:
+    - [Luxoft's response to the war in Ukraine](https://www.luxoft.com/pr/we-stand-united-with-ukraine) (8th Mar 2022)
+  - Actions:
+    - Provided a support package "worth millions of USD" to their Ukrainian employees
+    - Donated $330k to Red Cross
 - SAP
+  - Statements:
+    - [Standing in Solidarity with Ukraine](https://news.sap.com/2022/03/standing-in-solidarity) (2nd Mar 2022)
+  - Actions:
+    - Allocated €1m in humanitarian support
 - JetBrains
   - Statements:
     - [Our hearts are with the Ukrainian people, including our own colleagues and their families](https://twitter.com/jetbrains/status/1496786254494670851) (24th Feb 2022)
