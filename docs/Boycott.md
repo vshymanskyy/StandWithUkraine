@@ -85,7 +85,7 @@ Companies listed here are businesses operating in Russia that have taken definit
   - Actions:
     - Relocated Ukrainian employees
     - Waived transfer fees for transactions to Ukraine
-    - Facilitated over €1m donations to Red Cross
+    - Facilitated over €1m in donations to Red Cross
 - Luxoft
 - SAP
 - JetBrains
