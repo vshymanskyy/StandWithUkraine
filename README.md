@@ -42,5 +42,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Payum](https://github.com/Payum/Payum) - Payum is a PHP Payment processing library. It offers everything you need to work with payments.
 - [Soketi](https://github.com/soketi/soketi) - soketi is your simple, fast, and resilient open-source WebSockets server.
 - [Symfony](https://symfony.com/blog/symfony-stands-with-ukraine) - Symfony is a popular PHP framework
+- [Ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool for Crystal
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
