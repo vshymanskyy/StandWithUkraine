@@ -46,5 +46,9 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Awesome Crystal](https://github.com/veelenga/awesome-crystal) - A collection of awesome Crystal libraries, tools, frameworks and software
 - [Ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool for Crystal
 - [bcrypt.net](https://github.com/BcryptNet/bcrypt.net) - Porting of bcrypt.codeplex.com with enhanced security, missing fixes, features and better .net support
+- [lvgl-rs](https://github.com/rafaelcaricio/lvgl-rs) - Open-source Embedded GUI Library in Rust
+- [iban-validation](https://github.com/jschaedl/iban-validation) - A small library for validating International BankAccount Numbers (IBANs)
+- [portable-ascii](https://github.com/voku/portable-ascii) - Portable ASCII library - performance optimized (ascii) string functions for PHP
+- [comfey](https://github.com/dejavu1987/comfey) - Comfey is a tiny data binding library inspired by React hook useState
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
