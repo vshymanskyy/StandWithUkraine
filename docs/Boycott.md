@@ -110,6 +110,7 @@ Companies listed here are businesses operating in Russia that have taken definit
     - Closes office in Russia
     - Pauses all new sales in Russia and Belarus
 - **Accenture**
+    - [Statement](https://newsroom.accenture.com/news/accenture-to-discontinue-business-in-russia.htm)
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
