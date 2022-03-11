@@ -15,6 +15,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. **Elcomsoft**
 0. ElectroNeek
 0. Elementaree
+0. EPAM Systems (still unclear, their communication is lacking)
 0. EpicGrowth
 0. **FaceApp**
 0. Fast Reports, Inc
@@ -30,7 +31,6 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. LinguaLeo
 0. ManyChat
 0. **Maps.me**
-0. **Miro**
 0. Netology
 0. **NextGIS**
 0. **Nginx**
@@ -75,7 +75,7 @@ This list also features companies that:
 
 1. **DJI** drones, [helps Russians to locate DJI operators in Ukraine](https://twitter.com/vshymanskyy/status/1501966844118372356)
 
-## Allow list
+## ALLOW LIST
 
 Companies listed here are businesses operating in Russia that have taken definite actions to assert their support for Ukraine:
 
@@ -104,7 +104,10 @@ Companies listed here are businesses operating in Russia that have taken definit
   - Actions:
     - Suspended sales and R&D offices in Russia
     - Relocated Russian employees
-- EPAM Systems (still unclear, their communication is lacking)
+- Miro
+    - [Miro statement on Ukraine](https://miro.com/blog/update-from-miro-team/)
+    - Closes office in Russia
+    - Pauses all new sales in Russia and Belarus
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
