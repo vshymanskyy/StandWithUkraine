@@ -45,5 +45,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [Awesome Crystal](https://github.com/veelenga/awesome-crystal) - A collection of awesome Crystal libraries, tools, frameworks and software
 - [Ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool for Crystal
+- [bcrypt.net](https://github.com/BcryptNet/bcrypt.net) - Porting of bcrypt.codeplex.com with enhanced security, missing fixes, features and better .net support
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
