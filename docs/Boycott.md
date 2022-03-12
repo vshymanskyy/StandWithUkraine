@@ -15,7 +15,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. **Elcomsoft**
 0. ElectroNeek
 0. Elementaree
-0. EPAM Systems (still unclear, their communication is lacking)
+0. **EPAM Systems** (unclear, their communication is lacking)
 0. EpicGrowth
 0. **FaceApp**
 0. Fast Reports, Inc
