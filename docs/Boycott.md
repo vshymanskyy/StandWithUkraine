@@ -106,11 +106,11 @@ Companies listed here are businesses operating in Russia that have taken definit
     - Suspended sales and R&D offices in Russia
     - Relocated Russian employees
 - **Miro**
-    - [Miro statement on Ukraine](https://miro.com/blog/update-from-miro-team/)
+    - [Miro statement on Ukraine](https://miro.com/blog/update-from-miro-team/) (10th Mar 2022)
     - Closes office in Russia
     - Pauses all new sales in Russia and Belarus
 - **Accenture**
-    - [Statement](https://newsroom.accenture.com/news/accenture-to-discontinue-business-in-russia.htm)
+    - [Statement](https://newsroom.accenture.com/news/accenture-to-discontinue-business-in-russia.htm) (3rd Mar 2022)
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
