@@ -45,6 +45,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. SkillFactory
 0. Skillbox
 0. Skyeng
+0. **Synopsys**
 0. **T-Systems CIS**
 0. TamoSoft
 0. **Telegram**
