@@ -50,5 +50,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [iban-validation](https://github.com/jschaedl/iban-validation) - A small library for validating International BankAccount Numbers (IBANs)
 - [portable-ascii](https://github.com/voku/portable-ascii) - Portable ASCII library - performance optimized (ascii) string functions for PHP
 - [comfey](https://github.com/dejavu1987/comfey) - Comfey is a tiny data binding library inspired by React hook useState
+- [terraform-aws-modules](https://github.com/terraform-aws-modules) - Collection of Terraform AWS modules supported by the community.
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
