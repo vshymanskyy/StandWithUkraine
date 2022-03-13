@@ -1,0 +1,80 @@
+<svg viewBox="0 0 1040 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+@namespace svg url(http://www.w3.org/2000/svg);
+
+svg {
+  font-family: BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+svg|a:link, svg|a:visited {
+  cursor: pointer;
+}
+
+svg|a text {
+  fill: white;
+  font-size: 18px;
+}
+
+svg|a:hover > .button, svg|a:active > .button {
+  fill: white;
+  stroke: #24292f;
+}
+
+svg|a:hover > text, svg|a:active > text {
+  fill: #24292f;
+}
+
+.button {
+  stroke: white;
+  fill: #24292f;
+}
+
+.flag-blue {
+  fill: #005eb8;
+}
+
+.flag-yellow {
+  fill: #ffd101;
+}
+
+.bg {
+  fill: #f6f8fa;
+  stroke: #d0d7de;
+  stroke-width: 0.8px;
+}
+
+.message {
+  fill: white;
+}
+
+.hashtag {
+  font-size: 18px;
+  fill: black;
+}
+  </style>
+  
+  <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
+
+  <rect x="0" y="0" width="100%" height="110px" class="flag-blue"/>
+
+  <text x="0" y="25" font-size="20" dy="0" class="message">
+    <tspan x="20" dy=".6em">This is a personal profile of an open source software contributor from Ukraine.</tspan>
+    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already killed thousands of civilians, including more than 70 children.</tspan>
+    <tspan x="20" dy="1.2em">The death toll is still counting. It is a war and we need your help. Let's stand together against the Russian regime.</tspan>
+  </text>
+
+  <g>
+    <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
+        <rect x="40"  y="135" width="240" height="40" rx="6" class="button"/>
+        <text x="160" y="155"
+            dominant-baseline="middle"
+            text-anchor="middle">Support Ukraine</text>
+    </a>
+  </g>
+
+  <text x="1020" y="180" class="hashtag"
+        text-anchor="end">
+      #StandWithUkraine
+  </text>
+
+</svg>
