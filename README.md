@@ -52,5 +52,8 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [comfey](https://github.com/dejavu1987/comfey) - Comfey is a tiny data binding library inspired by React hook useState
 - [terraform-aws-modules](https://github.com/terraform-aws-modules) - Collection of Terraform AWS modules supported by the community.
 - [USDCUP.io](https://github.com/elvismdev/usdcup.io) - Web App that finds and tracks the average price of USD vs CUP in the informal (street) market in Cuba.
+- [CherryPy](https://github.com/cherrypy/cherrypy) - A Minimalist Python Web Framework
+- [Cheroot](https://github.com/cherrypy/cheroot) - A high-performance, pure-Python HTTP server used by CherryPy.
+- [octomachinery](https://github.com/sanitizers/octomachinery) - Invisible engine driving octobot machines. Simple, yet powerful. A pythonic framework for making GitHub Apps-powered bots.
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
