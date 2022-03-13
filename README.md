@@ -51,5 +51,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [portable-ascii](https://github.com/voku/portable-ascii) - Portable ASCII library - performance optimized (ascii) string functions for PHP
 - [comfey](https://github.com/dejavu1987/comfey) - Comfey is a tiny data binding library inspired by React hook useState
 - [terraform-aws-modules](https://github.com/terraform-aws-modules) - Collection of Terraform AWS modules supported by the community.
+- [USDCUP.io](https://github.com/elvismdev/usdcup.io) - Web App that finds and tracks the average price of USD vs CUP in the informal (street) market in Cuba.
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
