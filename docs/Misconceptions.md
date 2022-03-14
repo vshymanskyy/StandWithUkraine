@@ -21,7 +21,7 @@ Claim: **Ukrainian Armed forces are shelling Ukrainian cities**
 ---
 
 Claim: **Ordinary Russians are not responsible for Putin's aggression**  
-⛔️ False. The answer is lengthy, (please read this article)[https://detector.media/in-english/article/197381/2022-03-11-the-reasons-every-russian-is-responsible-for-this-war].
+⛔️ False. The answer is lengthy so [please read this article](https://detector.media/in-english/article/197381/2022-03-11-the-reasons-every-russian-is-responsible-for-this-war).
 
 ---
 
