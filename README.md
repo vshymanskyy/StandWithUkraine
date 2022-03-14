@@ -59,5 +59,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [bash-handbook](https://github.com/denysdovhan/bash-handbook) — A handbook for those who want to learn Bash.
 - [vacuum-card](https://github.com/denysdovhan/vacuum-card) — Vacuum cleaner card for Home Assistant Lovelace UI
 - [purifier-card](https://github.com/denysdovhan/purifier-card) — Air Purifier card for Home Assistant Lovelace UI
+- [Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light.
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
