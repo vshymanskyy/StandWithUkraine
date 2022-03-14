@@ -12,6 +12,8 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
+**(click to open)**
+
 ## For Maintainers and Authors
 
 1. [Add one of the banners](/docs/AddBanner.md) to your **`README.md`**. Badges are also available
