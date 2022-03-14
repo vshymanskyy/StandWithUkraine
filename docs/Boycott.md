@@ -72,10 +72,6 @@ This list also features companies that:
 - Have large offices operating in Russia
 - Are Russian taxpayers (thus sponsoring the war)
 
-## Non-Russian companies to avoid
-
-1. **DJI** drones, [helps Russians to locate DJI operators in Ukraine](https://twitter.com/vshymanskyy/status/1501966844118372356)
-
 ## ALLOW LIST
 
 Companies listed here are businesses operating in Russia that have taken definite actions to assert their support for Ukraine:
