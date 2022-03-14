@@ -55,4 +55,12 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [octomachinery](https://github.com/sanitizers/octomachinery) - Invisible engine driving octobot machines. Simple, yet powerful. A pythonic framework for making GitHub Apps-powered bots.
 - [Better Go Playground](https://github.com/x1unix/go-playground) - Go playground alternative with syntax highlight, code autocomplete and WebAssembly support.
 - [Canvacord](https://github.com/CesiumLabs/canvacord) - Simple & easy to use image manipulation module for beginners.
+- [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
+- [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) — Minimalistic, powerful and extremely customizable Zsh prompt.
+- [wtfjs](https://github.com/denysdovhan/wtfjs) — A list of funny and tricky JavaScript examples.
+- [bash-handbook](https://github.com/denysdovhan/bash-handbook) — A handbook for those who want to learn Bash.
+- [vacuum-card](https://github.com/denysdovhan/vacuum-card) — Vacuum cleaner card for Home Assistant Lovelace UI
+- [purifier-card](https://github.com/denysdovhan/purifier-card) — Air Purifier card for Home Assistant Lovelace UI
+- [Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light.
+
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
