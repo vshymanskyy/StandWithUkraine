@@ -15,7 +15,7 @@ Please opt-in for monthly payment, if possible.
 
 ## Other ways to help
 
-- Spread the word. Add [**banners**](https://github.com/vshymanskyy/StandWithUkraine/blob/main/README.md) to your projects
+- Spread the word. [**Add banners**](https://github.com/vshymanskyy/StandWithUkraine/blob/main/README.md#for-maintainers-and-authors) to your OSS projects and profiles
 - Demand severe sanctions against Russia and support for Ukraine from your leaders
 - Cancel any business with [**Russian companies**](Boycott.md) (stop supporting Russian economy, and reduce your own risks)
 - Reach out to Ukrainian friends, offer help
