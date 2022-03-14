@@ -1,5 +1,7 @@
 <a href="#"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
 
+## Ukrainian [OSS community updates](CommunityUpdates.md)
+
 ## Donate to support Ukraine (only verified charities)
 
 Please opt-in for monthly payment, if possible.
