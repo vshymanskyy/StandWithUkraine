@@ -1,6 +1,10 @@
 # A universal banner (for repositories, profiles, organizations)
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+1. Add a **`README.md`** file to your repo, profile, or organization.
+2. Add a single line on top of it:
+
 ```md
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 ```
