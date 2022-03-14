@@ -27,4 +27,4 @@ Please opt-in for monthly payment, if possible.
 
 Foreign warriors who are willing to join the resistance can [join the International Legion of Territorial Defense](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
 
-## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
+## 🇷🇺 [Обращение](ToRussianPeople.md) к гражданам России
