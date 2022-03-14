@@ -1,7 +1,7 @@
 # Ukrainian OSS community updates
 
 ## Mar 9, 2022
-Ukrainian open source developers gethered to talk about their experiences of Russian invasion.  
+Ukrainian open source developers gathered to talk about their experiences of Russian invasion.  
 [Twitter Space recording](https://twitter.com/denysdovhan/status/1501486563842211843) (original), [Youtube](https://www.youtube.com/watch?v=LeG09zu_p_g) (copy)
 
 ---
