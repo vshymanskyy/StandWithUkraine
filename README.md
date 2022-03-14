@@ -54,5 +54,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Cheroot](https://github.com/cherrypy/cheroot) - A high-performance, pure-Python HTTP server used by CherryPy.
 - [octomachinery](https://github.com/sanitizers/octomachinery) - Invisible engine driving octobot machines. Simple, yet powerful. A pythonic framework for making GitHub Apps-powered bots.
 - [Better Go Playground](https://github.com/x1unix/go-playground) - Go playground alternative with syntax highlight, code autocomplete and WebAssembly support.
+- [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
