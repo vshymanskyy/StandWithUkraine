@@ -15,16 +15,16 @@ Please opt-in for monthly payment, if possible.
 
 ## Other ways to help
 
-- Spread the word. Add [**banners**](/README.md) to your projects
+- Spread the word. Add [**banners**](https://github.com/vshymanskyy/StandWithUkraine/blob/main/README.md) to your projects
 - Demand severe sanctions against Russia and support for Ukraine from your leaders
-- Cancel any business with [**Russian companies**](/docs/Boycott.md) (stop supporting Russian economy, and reduce your own risks)
+- Cancel any business with [**Russian companies**](Boycott.md) (stop supporting Russian economy, and reduce your own risks)
 - Reach out to Ukrainian friends, offer help
-- Get rid of Russian [**software, dependencies and infrastructure**](/docs/Boycott.md)
-- Educate yourself and others on the Russian threat, read [**reputable news**](/docs/WarNews.md). Check out [**common misbeliefs**](/docs/Misconceptions.md).
+- Get rid of Russian [**software, dependencies and infrastructure**](Boycott.md)
+- Educate yourself and others on the Russian threat, read [**reputable news**](WarNews.md). Check out [**common misbeliefs**](Misconceptions.md).
 - Protest against war. **Don’t be silent**
 
 ## For foreign warriors
 
 Foreign warriors who are willing to join the resistance can [join the International Legion of Territorial Defense](https://www.ukrinform.net/rubric-ato/3415272-how-to-join-international-legion-to-defend-ukraine-algorithm.html)
 
-## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к Русским Гражданам
+## 🇷🇺 [Обращение](ToRussianPeople.md) к Русским Гражданам
