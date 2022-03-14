@@ -20,7 +20,7 @@ Please opt-in for monthly payment, if possible.
 - Cancel any business with [**Russian companies**](Boycott.md) (stop supporting Russian economy, and reduce your own risks)
 - Reach out to Ukrainian friends, offer help
 - Get rid of Russian [**software, dependencies and infrastructure**](Boycott.md)
-- Educate yourself and others on the Russian threat, read [**reputable news**](WarNews.md). Check out [**common misbeliefs**](Misconceptions.md).
+- Educate yourself and others on the Russian threat, read [**reputable news**](WarNews.md). Check out [**common misbeliefs**](Misconceptions.md)
 - Protest against war. **Don’t be silent**
 
 ## For foreign warriors
