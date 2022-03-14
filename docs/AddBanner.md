@@ -1,32 +1,25 @@
-# Add banner to your project
+# A universal banner (for repositories, profiles, organizations)
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```md
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
-
-# An interactive banner (requires 2 clicks, unfortunately)
-
-![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2.svg)
-```md
-![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2.svg)
-```
-
-# Alternative banner for Ukrainian projects
+---
+# For Ukrainians
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```md
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
-# Alternative banner for a single-developer project
+## For a single-developer project
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```md
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```
 
-# A banner for a Ukrainian developer's personal page
+## For a personal page
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 ```md
