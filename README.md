@@ -54,6 +54,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Cheroot](https://github.com/cherrypy/cheroot) - A high-performance, pure-Python HTTP server used by CherryPy.
 - [octomachinery](https://github.com/sanitizers/octomachinery) - Invisible engine driving octobot machines. Simple, yet powerful. A pythonic framework for making GitHub Apps-powered bots.
 - [Better Go Playground](https://github.com/x1unix/go-playground) - Go playground alternative with syntax highlight, code autocomplete and WebAssembly support.
+- [Canvacord](https://github.com/CesiumLabs/canvacord) - Simple & easy to use image manipulation module for beginners.
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
 - [spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) — Minimalistic, powerful and extremely customizable Zsh prompt.
 - [wtfjs](https://github.com/denysdovhan/wtfjs) — A list of funny and tricky JavaScript examples.
