@@ -113,4 +113,4 @@ Companies listed here are businesses operating in Russia that have taken definit
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
 - The list is still being verified. **There may be false positives,** please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) to fix them
-- Companies will be **moved to allow list** if there's copmelling evidence of them suspending operations in Russia
+- Companies will be **moved to allow list** if there's compelling evidence of them suspending operations in Russia
