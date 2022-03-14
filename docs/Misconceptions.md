@@ -20,6 +20,11 @@ Claim: **Ukrainian Armed forces are shelling Ukrainian cities**
 
 ---
 
+Claim: **Ordinary Russians are not responsible for Putin's aggression**  
+⛔️ False. The answer is lengthy, (please read this article)[https://detector.media/in-english/article/197381/2022-03-11-the-reasons-every-russian-is-responsible-for-this-war].
+
+---
+
 Claim: **Ukrainian civilians are not eligible to make and use the ["Molotov cocktail"](https://en.wikipedia.org/wiki/Molotov_cocktail) (petrol bomb)**  
 ⛔️ False. Ukraine officially allowed making and using such bombs against invaders. Russian soldiers are scared to be destroyed by civilans using those DIY bombs.
 
