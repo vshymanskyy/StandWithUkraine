@@ -8,7 +8,11 @@
 ```md
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 ```
+
+**Examples:** [pnpm](https://github.com/pnpm/pnpm#readme) (repo), [Wasm3](https://github.com/wasm3) (organization), [vshymanskyy](https://github.com/vshymanskyy) (private profile)
+
 ---
+
 # For Ukrainians
 
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
