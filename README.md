@@ -18,8 +18,8 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 ## Projects that #StandWithUkraine
 
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
+- [Wasm3](https://github.com/wasm3) - WebAssembly engine
 - [Rete.js](https://github.com/retejs/rete) - JavaScript framework for visual programming
-- [Wasm3](https://github.com/wasm3/wasm3) - WebAssembly engine
 - [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [PlatformIO](https://github.com/platformio/platformio-core) - A professional collaborative platform for embedded development
