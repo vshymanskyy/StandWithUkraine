@@ -62,5 +62,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js 
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [bootScore](https://github.com/bootscore/bootscore) - A powerful, free Bootstrap 5 starter theme for WordPress
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
