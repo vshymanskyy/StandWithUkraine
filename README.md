@@ -60,5 +60,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [vacuum-card](https://github.com/denysdovhan/vacuum-card) — Vacuum cleaner card for Home Assistant Lovelace UI
 - [purifier-card](https://github.com/denysdovhan/purifier-card) — Air Purifier card for Home Assistant Lovelace UI
 - [Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light.
+- [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology.
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
