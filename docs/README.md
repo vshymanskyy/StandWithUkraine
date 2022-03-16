@@ -23,7 +23,7 @@ Please opt-in for monthly payment, if possible.
 - Reach out to Ukrainian friends, offer help
 - Get rid of Russian [**software, dependencies and infrastructure**](Boycott.md)
 - Educate yourself and others on the Russian threat, read [**reputable news**](WarNews.md). Check out [**common misbeliefs**](Misconceptions.md)
-- Language is also a political tool. [Romanize/transliterate correctly](https://spellingukraine.com/). Call it a **war**, not a crisis. Etc.
+- Language is also a political tool. [**Romanize/transliterate correctly**](https://spellingukraine.com/). Also, call it a **war**, not a *Ukraine crisis*, etc.
 - Protest against war. **Don’t be silent**
 
 ## For foreign warriors
