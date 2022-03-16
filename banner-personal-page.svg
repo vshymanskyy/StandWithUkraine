@@ -66,7 +66,8 @@ svg|a:hover > text, svg|a:active > text {
   }
 
   svg|a text {
-    font-size: 40px;
+    font-size: 34px;
+    font-weight: bold;
   }
 
   .message, .hashtag {
@@ -81,7 +82,7 @@ svg|a:hover > text, svg|a:active > text {
 
   <text x="0" y="25" font-size="20" dy="0" class="message">
     <tspan x="20" dy=".6em" >This is a personal profile of an open source software contributor from Ukraine.</tspan>
-    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed thousands of civilians, including more than 85 children</tspan>.</tspan>
+    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed thousands of civilians, including more than 105 children</tspan>.</tspan>
     <tspan x="20" dy="1.2em">The death toll is still counting. It is a war and we need your help. Let's stand together against the Russian regime.</tspan>
   </text>
 
