@@ -4,7 +4,7 @@
 
 This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this **(click to open)**:
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
 ## Ukrainian [OSS community updates](/docs/CommunityUpdates.md)
 
