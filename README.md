@@ -19,6 +19,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 - [MacPaw](https://github.com/MacPaw) - A company behind prominent Mac software: CleanMyMac X, Setapp, Gemini 2, The Unarchiver
+- [AVA.js](https://github.com/avajs/ava) - A test runner for Node.js that lets you develop with confidence
 - [Wasm3](https://github.com/wasm3) - WebAssembly engine
 - [Rete.js](https://github.com/retejs/rete) - JavaScript framework for visual programming
 - [Blynk](https://github.com/blynkkk/blynk-library) - IoT platform
