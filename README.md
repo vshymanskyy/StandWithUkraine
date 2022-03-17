@@ -64,6 +64,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js 
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [T-Regx](https://github.com/T-Regx/T-Regx) - PHP regular expression brought up to modern standards
 - [bootScore](https://github.com/bootscore/bootscore) - A powerful, free Bootstrap 5 starter theme for WordPress
 - [**...and many others**](https://github.com/search?l=Markdown&q=SWUbanner&type=Code)
 
