@@ -4,6 +4,7 @@
 
 svg {
   font-family: BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  color-scheme:light dark;
 }
 
 svg|a:link, svg|a:visited {
