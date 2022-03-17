@@ -32,7 +32,6 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. **Maps.me**
 0. Netology
 0. **NextGIS**
-0. **Nginx**
 0. Ozon
 0. ProductStar
 0. PuzzleEnglish
@@ -109,6 +108,8 @@ Companies listed here are businesses operating in Russia that have taken definit
     - [Statement](https://newsroom.accenture.com/news/accenture-to-discontinue-business-in-russia.htm) (3rd Mar 2022)
 - **EPAM Systems**
     - [Statement](https://www.epam.com/about/newsroom/press-releases/2022/epam-provides-update-on-ukraine) (4th Mar 2022)
+- **F5 (Nginx)**
+    - [Statement](https://www.f5.com/company/blog/standing-firm-in-support-of-the-people-of-ukraine) (15th Mar 2022)
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
