@@ -66,6 +66,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [T-Regx](https://github.com/T-Regx/T-Regx) - PHP regular expression brought up to modern standards
 - [bootScore](https://github.com/bootscore/bootscore) - A powerful, free Bootstrap 5 starter theme for WordPress
+- [UAdata](https://github.com/uadata/uadata) - Ukrainian data hub with API
 - [**...and many others**](https://github.com/search?l=Markdown&q=SWUbanner&type=Code)
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
