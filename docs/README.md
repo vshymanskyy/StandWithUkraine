@@ -22,10 +22,10 @@ Please opt-in for monthly payment, if possible.
 - Demand severe sanctions against Russia and support for Ukraine from your leaders.
 - Cancel any business with [**Russian companies**](Boycott.md) (stop supporting Russian economy, and reduce your own risks).
 - Reach out to Ukrainian friends, offer help.
-- Get rid of Russian [**software, dependencies and infrastructure**](Boycott.md)
+- Get rid of Russian [**software, dependencies and infrastructure**](Boycott.md).
 - Educate yourself and others on the Russian threat, read [**reputable news**](WarNews.md). Check out [**common misbeliefs**](Misconceptions.md).
 - Language is also a political tool. [**Romanize/transliterate correctly**](https://spellingukraine.com/). Also, call it a **war**, not a *Ukraine crisis*, etc.
-- Protest against war. **Don’t be silent**
+- Protest against war. **Don’t be silent.**
 
 ## For foreign warriors
 
