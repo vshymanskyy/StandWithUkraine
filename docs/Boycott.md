@@ -1,4 +1,4 @@
-# Russian IT products to boycott
+# Russian & Belarusian IT products to boycott
 
 Everything in **`.ru`** and **`.su`** domains is most probably a Russian business.
 
@@ -18,7 +18,7 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. **T-Systems CIS**
 0. **Telegram**
 0. **Tilda**
-0. **Wargaming (Belarusian)**
+0. **Wargaming**
 0. **Yclients**
 0. 1C Company
 0. Advego
@@ -106,6 +106,30 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 This list also features companies that:
 - Have large offices operating in Russia
 - Are Russian taxpayers (thus sponsoring the war)
+
+# Other companies to avoid
+
+🇬🇧 Unilever
+🇩🇪 Metro
+🇫🇷 Danone
+🇨🇭 Nestlé
+🇺🇸 Colgate-Palmolive
+🇺🇸 Johnson & Johnson
+
+🇫🇷 Renault
+🇸🇪 SKF
+🇩🇪 Bosch
+🇮🇹 Danieli
+🇩🇰 Grundfos
+
+🇨🇭 Syngenta
+🇺🇸 DuPont
+🇺🇸 Dow Chemical
+
+🇦🇹 Raiffeisen
+🇮🇹 Unicredit
+🇫🇷 Société Générale
+🇺🇸 Citi
 
 ## ALLOW LIST
 
