@@ -1,5 +1,13 @@
 # Ukrainian OSS community updates
 
+## Mar 19, 2022
+Update from [veelenga](https://github.com/veelenga):
+> Many companies suspend their business in Russia because of the agression.
+I made a simple [web app](https://rblist.info) where you can quickly find the fresh list of such companies.
+This shows how much the world can sacrifice to help Ukraine and to stop the war.
+
+---
+
 ## Mar 16, 2022
 Update from [Tyrrrz](https://github.com/Tyrrrz):
 > Kyiv or Kiev? Kharkiv or Kharkov? Mykolaiv or Nikolaev?
