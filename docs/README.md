@@ -1,5 +1,10 @@
 <a href="#"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
 
+
+Nothing for iraq war, syria war, libya war started by america, british and european government, but all for ukraine??
+excuse me, but I think a lot of people are blind.
+No war! peace for all! no difference between attackers!
+
 ## Ukrainian [OSS community updates](CommunityUpdates.md)
 
 ## Donate to support Ukraine (only verified charities)
