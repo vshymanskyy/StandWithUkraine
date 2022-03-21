@@ -117,7 +117,6 @@ This list also features companies that:
 
 🇫🇷 Renault
 🇸🇪 SKF
-🇩🇪 Bosch
 🇮🇹 Danieli
 🇩🇰 Grundfos
 
