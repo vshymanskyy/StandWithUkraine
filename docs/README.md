@@ -2,22 +2,8 @@
 
 <a href="#"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
 
-<table>
-  <tr>
-    <td width="9999px">
-      <b>
-       📢 <a href="CommunityUpdates.md">Updates from Ukrainian Open Source Community</a>
-      </b>
-    </td>
-  </tr>
-  <tr>
-    <td width="9999px">
-      <b>
-        🇷🇺 <a href="ToRussianPeople.md">Обращение к гражданам России</a>
-      </b>
-    </td>
-  </tr>
-</table>
+ 📢 [Updates from Ukrainian Open Source Community](CommunityUpdates.md)  
+ 🇷🇺 [Обращение к гражданам России](ToRussianPeople.md)
 
 ## Support Ukraine
 
