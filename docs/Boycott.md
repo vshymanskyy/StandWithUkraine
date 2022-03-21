@@ -54,7 +54,6 @@ Everything in **`.ru`** and **`.su`** domains is most probably a Russian busines
 0. LightShot
 0. LinguaLeo
 0. Mango АТС
-0. ManyChat
 0. Megaplan (Мегаплан)
 0. Mindbox
 0. Netology (Нетология)
@@ -170,6 +169,8 @@ Companies listed here are businesses operating in Russia that have taken definit
     - [Statement](https://www.epam.com/about/newsroom/press-releases/2022/epam-provides-update-on-ukraine) (4th Mar 2022)
 - **F5 (Nginx)**
     - [Statement](https://www.f5.com/company/blog/standing-firm-in-support-of-the-people-of-ukraine) (15th Mar 2022)
+- **ManyChat**
+    - Statements: [ManyChat’s Update on Ukraine](https://manychat.com/blog/manychats-update-on-ukraine/) (16th March 2022)
 
 ## Note!
 - Please [create issues](https://github.com/vshymanskyy/StandWithUkraine/issues/new) with other products to add
