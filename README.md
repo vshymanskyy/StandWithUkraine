@@ -69,7 +69,8 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [UAdata](https://github.com/uadata/uadata) - Ukrainian data hub with API
 - [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A toolkit for creating modern WPF applications. Lots of goodness out-of-the box
 - [MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) - Awesome icon packs for WPF and UWP in one library
-- [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF.
+- [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF
+- [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
 - [**...and many others**](https://github.com/search?l=Markdown&q=SWUbanner&type=Code)
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
