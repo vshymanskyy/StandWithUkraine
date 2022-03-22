@@ -71,6 +71,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) - Awesome icon packs for WPF and UWP in one library
 - [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF
 - [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
-- [**...and mothe than 700 others**](https://github.com/search?l=Markdown&o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
+- [**...and more than 700 others**](https://github.com/search?l=Markdown&o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
 
 ## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
