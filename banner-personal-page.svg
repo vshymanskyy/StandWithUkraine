@@ -13,6 +13,7 @@ svg|a:link, svg|a:visited {
 svg|a text {
   fill: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 svg|a:hover > .button, svg|a:active > .button {
@@ -82,17 +83,14 @@ svg|a:hover > text, svg|a:active > text {
 
   <text x="0" y="25" font-size="20" dy="0" class="message">
     <tspan x="20" dy=".6em" >This is a personal profile of an open source software contributor from Ukraine.</tspan>
-    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 3000 civilians, including more than 105 children</tspan>.</tspan>
+    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 3000 civilians, including more than 117 children</tspan>.</tspan>
     <tspan x="20" dy="1.2em">The death toll continues climbing. It's a war and we need your help. Let's stand together against the Russian regime.</tspan>
   </text>
 
   <g>
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
         <rect x="40"  y="135" width="240" height="40" rx="6" class="button"/>
-        <text x="160" y="155"
-            dominant-baseline="middle"
-            font-weight="bold"
-            text-anchor="middle">Support Ukraine</text>
+        <text x="160" y="155" dominant-baseline="middle" text-anchor="middle">Support Ukraine</text>
     </a>
   </g>
 
@@ -103,8 +101,8 @@ svg|a:hover > text, svg|a:active > text {
     </text>
 
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
-        <rect x="340" y="120" width="360" height="70" rx="10" class="button" />
-        <text x="520" y="155" dominant-baseline="middle" text-anchor="middle">Support Ukraine</text>
+      <rect x="340" y="120" width="360" height="70" rx="10" class="button" />
+      <text x="520" y="155" dominant-baseline="middle" text-anchor="middle">Support Ukraine</text>
     </a>
   </g>
 
