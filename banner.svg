@@ -13,6 +13,7 @@ svg|a:link, svg|a:visited {
 svg|a text {
   fill: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 svg|a:hover > .button, svg|a:active > .button {
@@ -89,17 +90,11 @@ svg|a:hover > text, svg|a:active > text {
   <g>
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
         <rect x="40"  y="135" width="200" height="40" rx="6" class="button"/>
-        <text x="140" y="155"
-            dominant-baseline="middle"
-            font-weight="bold"
-            text-anchor="middle">Read more</text>
+        <text x="140" y="155" dominant-baseline="middle" text-anchor="middle">Read more</text>
     </a>
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/Donate.md">
         <rect x="260" y="135" width="200" height="40" rx="6" class="button"/>
-        <text x="360" y="155"
-            dominant-baseline="middle"
-            font-weight="bold"
-            text-anchor="middle">Support Ukraine</text>
+        <text x="360" y="155" dominant-baseline="middle" text-anchor="middle">Support Ukraine</text>
     </a>
   </g>
 
@@ -110,13 +105,13 @@ svg|a:hover > text, svg|a:active > text {
     </text>
 
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
-        <rect x="15"  y="120" width="330" height="70" rx="10" class="button"/>
-        <text x="180" y="155" dominant-baseline="middle" text-anchor="middle">Read more</text>
+      <rect x="15"  y="120" width="330" height="70" rx="10" class="button"/>
+      <text x="180" y="155" dominant-baseline="middle" text-anchor="middle">Read more</text>
     </a>
 
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
-        <rect x="365" y="120" width="330" height="70" rx="10" class="button" />
-        <text x="530" y="155" dominant-baseline="middle" text-anchor="middle">Support Ukraine</text>
+      <rect x="365" y="120" width="330" height="70" rx="10" class="button" />
+      <text x="530" y="155" dominant-baseline="middle" text-anchor="middle">Support Ukraine</text>
     </a>
   </g>
 

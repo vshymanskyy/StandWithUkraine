@@ -13,6 +13,7 @@ svg|a:link, svg|a:visited {
 svg|a text {
   fill: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 svg|a:hover > .button, svg|a:active > .button {

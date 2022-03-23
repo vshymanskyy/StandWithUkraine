@@ -13,6 +13,7 @@ svg|a:link, svg|a:visited {
 svg|a text {
   fill: white;
   font-size: 18px;
+  font-weight: bold;
 }
 
 svg|a:hover > .button, svg|a:active > .button {
@@ -89,10 +90,7 @@ svg|a:hover > text, svg|a:active > text {
   <g>
     <a href="https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md">
         <rect x="40"  y="135" width="240" height="40" rx="6" class="button"/>
-        <text x="160" y="155"
-            dominant-baseline="middle"
-            font-weight="bold"
-            text-anchor="middle">Support Ukraine</text>
+        <text x="160" y="155" dominant-baseline="middle" text-anchor="middle">Support Ukraine</text>
     </a>
   </g>
 
