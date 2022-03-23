@@ -12,8 +12,8 @@
 The best way to financially support Ukraine is by donating directly to one of the special accounts opened by the National Bank of Ukraine.
 These funds will be used to finance local humanitarian relief, as well as Ukraine's Armed Forces.
 
-- 💵 [Donate to the military](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) - funds used to buy equipment, ammunition, vehicles, etc. for frontline soldiers.
-- 💵 [Donate to the humanitarian campaign](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi) - funds used to provide relief to civilians endangered by the war.
+- 💵 [**Donate to the military**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) - funds used to buy equipment, ammunition, vehicles, etc. for frontline soldiers.
+- 💵 [**Donate to the humanitarian campaign**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi) - funds used to provide relief to civilians endangered by the war.
 
 ### Donate to Non-Government Organizations
 
