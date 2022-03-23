@@ -81,15 +81,16 @@ svg|a:hover > text, svg|a:active > text {
   <rect x="0" y="0" width="100%" height="110px" class="flag-blue"/>
 
   <text x="0" y="25" font-size="20" dy="0" class="message">
-    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed thousands of civilians, including more than 105 children</tspan>.</tspan>
-    <tspan x="20" dy="1.2em">The death toll is still counting. It is a war and we need your help. Let's stand together against the Russian regime.</tspan>
+    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 3000 civilians, including more than 117 children</tspan>.</tspan>
+    <tspan x="20" dy="1.2em">The death toll continues climbing. It's a war and we need your help. Let's stand together against the Russian regime.</tspan>
   </text>
-  
-  <text x="0" y="25" font-size="20" dy="0" class="message mobile-only">
-    <tspan x="20" dy="0.6em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed thousands of civilians.</tspan></tspan>
-    <tspan x="20" dy="1.4em">The death toll is still counting. It is a war and we need your help.</tspan>
-    <tspan x="20" dy="2.1em" class="hashtag">Let's stand together against the Russian regime.</tspan>
-  </text>
+
+  <g class="mobile-only">
+    <text x="0" y="25" font-size="20" dy="0" class="message">
+      <tspan x="20" dy=".6em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 3000 civilians.</tspan></tspan>
+      <tspan x="20" dy="1.35em">The death toll continues climbing. It's a war and we need your help.</tspan>
+    </text>
+  </g>
 
   <text x="1020" y="180" class="hashtag mobile" text-anchor="end">
       #StandWithUkraine
