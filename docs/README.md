@@ -17,10 +17,12 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 
 ### Donate to Non-Government Organizations
 
+> ⚠ Refrain from sending money to **any crypto wallets**, except those found on official charity websites.
+
+> ⚠ **DO NOT** donate to Red Cross International, donate to [Ukrainian Red Cross](https://redcross.org.ua/en/donate) instead.
+
 Below is a list of non-profits that currently operate in Ukraine.
 Please opt-in for a monthly payment, if possible.
-
-> ⚠ **Refrain from sending money to any crypto wallets, except those found on official charity websites.**
 
 - 💵 [**Come Back Alive**](https://savelife.in.ua/en/donate/) - funds used to buy **non-lethal** equipment for frontline soldiers as well as territorial defense units.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) - provides humanitarian relief to Ukrainians affected by the war.
