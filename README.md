@@ -6,7 +6,8 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-## Ukrainian [OSS community updates](/docs/CommunityUpdates.md)
+### 📢 [Updates from Ukrainian Open Source Community](/docs/CommunityUpdates.md)
+### 🇷🇺 [Обращение к гражданам России](/docs/ToRussianPeople.md)
 
 ## For Maintainers and Authors
 
@@ -73,4 +74,3 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
 - [**...and more than 700 others**](https://github.com/search?l=Markdown&o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
 
-## 🇷🇺 [Обращение](/docs/ToRussianPeople.md) к гражданам России
