@@ -115,7 +115,6 @@ This list also features companies that:
 🇺🇸 Colgate-Palmolive
 🇺🇸 Johnson & Johnson
 
-🇫🇷 Renault
 🇸🇪 SKF
 🇮🇹 Danieli
 🇩🇰 Grundfos
