@@ -1,6 +1,6 @@
 # Russian & Belarusian IT products to boycott
 
-Everything in **`.ru`** and **`.su`** domains is most probably a Russian business.
+Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 
 1. **ABBYY**
 0. **2Gis**
