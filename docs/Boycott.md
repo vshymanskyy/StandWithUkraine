@@ -53,6 +53,7 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. Lebedev Studio
 0. LightShot
 0. LinguaLeo
+0. LiveJournal
 0. Mango АТС
 0. Megaplan (Мегаплан)
 0. Mindbox
