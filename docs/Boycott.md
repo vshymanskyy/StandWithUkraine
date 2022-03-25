@@ -16,7 +16,6 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. **Semrush**
 0. **Synopsys**
 0. **T-Systems CIS**
-0. **Telegram**
 0. **Tilda**
 0. **Wargaming**
 0. **Yclients**
