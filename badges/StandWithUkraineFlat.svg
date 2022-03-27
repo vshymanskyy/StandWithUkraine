@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155" height="20" role="img" aria-label="#StandWithUkraine: 🇺🇦">
+<style type="text/css">
+	.st0{fill:#555555;}
+	.st1{fill:#0057B7;}
+	.st2{fill:#FFD700;}
+	.st3{fill:none;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'Verdana';}
+	.st6{font-size:11px;}
+</style>
+<g shape-rendering="crispEdges">
+	<rect class="st0" width="122.9" height="20"/>
+	<rect x="122.9" class="st1" width="38.3" height="10"/>
+	<rect x="122.9" y="10" class="st2" width="38.3" height="10"/>
+</g>
+<g text-rendering="geometricPrecision">
+	<rect x="6.2" y="4.5" class="st3" width="109" height="12.8"/>
+	<text transform="matrix(1 0 0 1 6.166 14)" class="st4 st5 st6">#StandWithUkraine</text>
+</g>
+</svg>
