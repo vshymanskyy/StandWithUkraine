@@ -19,7 +19,7 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 
 > ⚠ Refrain from sending money to **any crypto wallets**, except those found on official charity websites.
 
-> ⚠ **DO NOT** donate to Red Cross International, donate to [Ukrainian Red Cross](https://redcross.org.ua/en/donate) instead. The Red Cross International is using the millions it collected to help Ukraine on sponsoring a [deportation of Ukrainians to Russia](https://go.ifrc.org/reports/15302).
+> ⚠ **DO NOT** donate to Red Cross International, donate to [Ukrainian Red Cross](https://redcross.org.ua/en/donate) instead.
 
 Below is a list of non-profits that currently operate in Ukraine.
 Please opt-in for a monthly payment, if possible.
