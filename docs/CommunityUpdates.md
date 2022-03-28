@@ -24,7 +24,7 @@ Ukrainian open source developers gathered to talk about their experiences of Rus
 ## Mar 7, 2022
 Update from [vshymanskyy](https://github.com/vshymanskyy):
 
-> My own house is likely destroyed by Russian Forces in Irpin. The R&D lab is gone.
+> Just confirmed that my own house is destroyed by Russian Forces in Irpin. The R&D lab is gone.
 Our children have nowhere to return now. It's a pile of money, hard work and dedication.  
 But I'm happy my family and friends are all safe. ❤️  
 Irpin is a peaceful city near Kyiv. Part of the city is currently occupied by russians.
