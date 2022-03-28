@@ -1,9 +1,5 @@
 <!-- analytics -->
 {% if site.tracker_pixel %}
-
-<script type="text/javascript" src="{{ site.tracker_pixel }}.js"></script>
-<noscript>
-      <img src="{{ site.tracker_pixel }}" width="0" height="0" style="border-style:none;">
-</noscript>
-
+<script        src="{{ site.tracker_pixel }}.js" type="text/javascript"></script>
+<noscript><img src="{{ site.tracker_pixel }}" width="0" height="0" style="border-style:none;"></noscript>
 {% endif %}
