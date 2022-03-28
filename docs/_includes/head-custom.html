@@ -1,1 +1,15 @@
 <!-- analytics -->
+{% if site.tracker_pixel %}
+
+<script type="text/javascript">
+    window.onload = function() {
+      var t = document.createElement('img');
+      t.height = '1'; t.width = '1'; t.style = 'border-style:none;';
+      t.src = '{{ site.tracker_pixel }}?page=' + encodeURIComponent(window.location.pathname);
+    }
+</script>
+<noscript>
+      <img src="{{ site.tracker_pixel }}" width="0" height="0" style="border-style:none;">
+</noscript>
+
+{% endif %}
