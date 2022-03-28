@@ -17,7 +17,9 @@
 
       {{ content }}
 
-      <img src="https://vsh.pp.ua/pixel.png" width="0" height="0">
+      {% if site.tracker_pixel %}
+      <img src="{{ site.tracker_pixel }}" width="0" height="0">
+      {% endif %}
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
