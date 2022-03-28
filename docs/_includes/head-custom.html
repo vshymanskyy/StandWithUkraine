@@ -8,7 +8,7 @@
         tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
       } catch (e) {}
       var t = document.createElement('img');
-      t.height = '1'; t.width = '1'; t.style = 'border-style:none;';
+      t.height = t.width = '1'; t.style = 'border-style:none;';
       t.src = '{{ site.tracker_pixel }}?page=' + encodeURIComponent(window.location.pathname) +
               '&ref=' + encodeURIComponent(document.referrer) +
               '&scr=' + (window.screen.width * window.devicePixelRatio + "x" + window.screen.height * window.devicePixelRatio) +
