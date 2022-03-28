@@ -3,16 +3,16 @@
 
 <script type="text/javascript">
     window.onload = function() {
+      var c=encodeURIComponent, d=document, w=window, s=window.screen, n=navigator;
+      var dpr = w.devicePixelRatio;
       var tz = new Date().getTimezoneOffset();
-      try {
-        tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
-      } catch (e) {}
-      var t = document.createElement('img');
-      t.height = t.width = '1'; t.style = 'border-style:none;';
-      t.src = '{{ site.tracker_pixel }}?page=' + encodeURIComponent(window.location.pathname) +
-              '&ref=' + encodeURIComponent(document.referrer) +
-              '&scr=' + (window.screen.width * window.devicePixelRatio + "x" + window.screen.height * window.devicePixelRatio) +
-              '&lng=' + (navigator.language || navigator.browserLanguage) +
+      try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone; } catch (e) {}
+      var p = d.createElement('img');
+      p.height = p.width = '1'; p.style = 'border-style:none;';
+      p.src = '{{ site.tracker_pixel }}?page=' + c(w.location.pathname) +
+              '&ref=' + c(d.referrer) +
+              '&scr=' + (s.width*dpr + "x" + s.height*dpr) +
+              '&lng=' + (n.language || n.browserLanguage) +
               '&tz=' + tz;
     }
 </script>
