@@ -48,6 +48,12 @@
 StandWithUkraine:
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraineFlat.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 Russian Warship:
 [![Russian Warship Go Fuck Yourself](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/RussianWarship.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+NoToWar:
+[![No To War](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/NoToWarFlat.svg)]
+(https://vshymanskyy.github.io/StandWithUkraine)
 ```
