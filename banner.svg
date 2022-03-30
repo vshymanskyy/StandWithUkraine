@@ -83,7 +83,7 @@ svg|a:hover > text, svg|a:active > text {
 
   <text x="0" y="25" font-size="19.5" dy="0" class="message">
     <tspan x="20" dy=".6em" >This project was developed with substantial contributions from Ukrainian developers.</tspan>
-    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 4000 civilians, including more than 135 children</tspan>.</tspan>
+    <tspan x="20" dy="1.2em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 3200 civilians, including more than 144 children</tspan>.</tspan>
     <tspan x="20" dy="1.2em">The death toll continues climbing. It's a war and we need your help. Let's stand together against the Russian regime.</tspan>
   </text>
 
@@ -100,7 +100,7 @@ svg|a:hover > text, svg|a:active > text {
 
   <g class="mobile-only">
     <text x="0" y="25" font-size="20" dy="0" class="message">
-      <tspan x="20" dy=".6em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 4000 civilians.</tspan></tspan>
+      <tspan x="20" dy=".6em">Russia has invaded Ukraine and already <tspan font-weight="bold">killed over 3200 civilians.</tspan></tspan>
       <tspan x="20" dy="1.35em">The death toll continues climbing. It's a war and we need your help.</tspan>
     </text>
 
