@@ -72,6 +72,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [MahApps.Metro.IconPacks](https://github.com/MahApps/MahApps.Metro.IconPacks) - Awesome icon packs for WPF and UWP in one library
 - [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF
 - [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
-- [PokeTube](https://github.com/iamashley0/poketube/) - An Youtube player thats focused on privacy 
+- [PokeTube](https://github.com/iamashley0/poketube/) - An Youtube player thats focused on privacy
+- [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard 
 - [**...and more than 900 others**](https://github.com/search?l=Markdown&o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
 
