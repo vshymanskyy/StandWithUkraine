@@ -127,6 +127,7 @@ This list also features companies that:
 🇮🇹 Unicredit
 🇫🇷 Société Générale
 🇺🇸 Citi
+🇫🇷 Auchan
 
 ## ALLOW LIST
 
