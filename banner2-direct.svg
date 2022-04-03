@@ -26,7 +26,8 @@ svg|a:link, svg|a:visited {
   display: none;
 }
 .arrow {
-  fill: #777;
+  fill: #888;
+  font-size: 24px;
 }
 
 @media (max-width: 800px) {
@@ -59,7 +60,7 @@ svg|a:link, svg|a:visited {
     </text>
 
     <text x="50%" y="78.5%" dominant-baseline="middle" text-anchor="middle" class="call">
-      Help Ukraine Now <tspan dy="-0.04em" class="arrow">→</tspan>
+      Help Ukraine Now <tspan class="arrow">➔</tspan>
     </text>
   </a>
 
