@@ -5,39 +5,22 @@
 svg {
   font-family: BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
-
 svg|a:link, svg|a:visited {
   cursor: pointer;
 }
-
-.button {
-  stroke: white;
-  fill: #24292f;
-}
-
 .flag-blue {
   fill: #005eb8;
 }
-
 .flag-yellow {
   fill: #ffd101;
 }
-
-.bg {
-  fill: #f6f8fa;
-  stroke: #d0d7de;
-  stroke-width: 0.8px;
-}
-
 .message {
   fill: white;
 }
-
 .call {
   fill: black;
   font-size: 32px;
 }
-
 .mobile-only {
   display: none;
 }
@@ -46,10 +29,9 @@ svg|a:link, svg|a:visited {
   svg a > .message {
     display: none;
   }
-  svg > rect, svg a > .mobile-only {
+  svg a > .mobile-only {
     display: inherit;
   }
-
   .message {
     font-size: 30px;
   }
