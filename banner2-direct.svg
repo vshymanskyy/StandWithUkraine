@@ -24,6 +24,10 @@ svg|a:link, svg|a:visited {
 .mobile-only {
   display: none;
 }
+.arrow {
+  fill: #777;
+  font-size: 26px;
+}
 
 @media (max-width: 600px) {
   svg a > .message {
@@ -55,7 +59,7 @@ svg|a:link, svg|a:visited {
       <tspan x="20" dy="1.2em">with many more raped or tortured. It's a <tspan font-weight="bold">genocide</tspan>. We need your help.</tspan>
     </text>
 
-    <text x="50%" y="155" dominant-baseline="middle" text-anchor="middle" class="call">Help Ukraine Now →</text>
+    <text x="50%" y="155" dominant-baseline="middle" text-anchor="middle" class="call">Help Ukraine Now <tspan dy="0.06em" class="arrow">→</tspan></text>
   </a>
 
 </svg>
