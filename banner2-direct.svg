@@ -9,10 +9,10 @@ svg|a:link, svg|a:visited {
   cursor: pointer;
 }
 .flag-blue {
-  fill: #005eb8;
+  fill: #0057b7;
 }
 .flag-yellow {
-  fill: #ffd101;
+  fill: #ffd700;
 }
 .message {
   fill: white;
