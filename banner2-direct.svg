@@ -29,23 +29,20 @@ svg|a:link, svg|a:visited {
 .arrow {
   font-size: 24px;
 }
-
 @media (max-width: 770px) {
-  svg a > .message {
-    display: none;
-  }
-  svg a > .mobile-only {
-    display: inherit;
-  }
   .message {
+    display: none;
     font-size: 29px;
+  }
+  .mobile-only {
+    display: inherit;
   }
   .call {
     font-size: 36px;
   }
 }
   </style>
-  
+
   <a href="https://stand-with-ukraine.pp.ua">
     <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
     <rect x="0" y="0" width="100%" height="110px" class="flag-blue"/>
