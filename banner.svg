@@ -29,16 +29,13 @@ svg|a:link, svg|a:visited {
 .arrow {
   font-size: 24px;
 }
-
 @media (max-width: 770px) {
-  svg a > .message {
-    display: none;
-  }
-  svg a > .mobile-only {
-    display: inherit;
-  }
   .message {
+    display: none;
     font-size: 29px;
+  }
+  .mobile-only {
+    display: inherit;
   }
   .call {
     font-size: 36px;
