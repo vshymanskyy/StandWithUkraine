@@ -32,6 +32,9 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Army SOS**](https://armysos.com.ua/en/) - provides food and other support to Ukrainian troops.
 - 💵 [**Territory of Kindness**](https://vuf-td.space/en/) - provides support to children, army, help with medical supplies procurement.
 - 💵 [**People In Need**](https://www.peopleinneed.net/donate/once) (select `SOS Ukraine`) - focuses on providing food, clean water, and hygienic products to those impacted by Russian aggression.
+- 💵 [**Nova Ukraine**](https://novaukraine.org/donate/) - provides humanitarian aid to the people of Ukraine and raises awareness about Ukraine in the United States as well as in the rest of the world. [501 (c)3 - Tax ID/EID 46-5335435]
+- 💵 [**Save the Children**](https://support.savethechildren.org/site/Donation2?df_id=5746&mfc_pref=T&5746.donation=form1) - [501 (c) 3] helps children by providing food and shelter. [501 (c)3 - Tax ID/EID 06-0726487]
+- 💵 [**UICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) - [501 (c)3 ]access to safe water, nutrition, health care, education and protection [501 (c)3 - Tax ID/EID 13-1760110]
 
 ### Other ways to help
 
