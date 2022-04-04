@@ -47,5 +47,6 @@ Please opt-in for a monthly payment, if possible.
 - 📰 Resist propaganda:
   - Educate yourself and others on the Russian threat, read [reputable news](WarNews.md)
   - Check out [common misbeliefs](Misconceptions.md).
+  - Learn fascinatig delais of [Ukraine's history](https://www.youtube.com/channel/UC1Q2MLy0DEswY-1ZheTcYig) on YouTube.
 - ⚔ Join the Foreign Legion of Ukraine:
   - [Fight for Ukraine!](https://fightforua.org)
