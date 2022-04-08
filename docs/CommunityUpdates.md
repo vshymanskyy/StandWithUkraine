@@ -29,4 +29,4 @@ Our children have nowhere to return now. It's a pile of money, hard work and ded
 But I'm happy my family and friends are all safe. ❤️  
 Irpin is a peaceful city near Kyiv. Part of the city is currently occupied by russians.
 They are intentionally shooting civilians on the streets, invading and burning houses. Shops are being looted...
-People are locked in their basements, limited in supplies. More on [twitter](https://twitter.com/vshymanskyy/status/1501132484062425089)
+People are locked in their basements, limited in supplies. More on [twitter](https://twitter.com/vshymanskyy/status/1512438413357719564)
