@@ -72,6 +72,7 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. S7 (cargo, airlines, etc)
 0. Savepic
 0. ScreenShare
+0. Screeps (MMO sandbox game for programmers)
 0. SendSay
 0. ServiceGuru
 0. Signum
