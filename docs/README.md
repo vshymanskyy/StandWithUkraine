@@ -23,9 +23,9 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 Below is a list of non-profits that currently operate in Ukraine.
 Please opt-in for a monthly payment, if possible.
 
-- 💵 [**Come Back Alive**](https://www.comebackalive.in.ua/donate) — funds used to buy **non-lethal** equipment for frontline soldiers as well as territorial defense units.
+- 💵 [**Hacked**](https://www.comebackalive.in.ua/donate) — funds used to buy **non-lethal** equipment for frontline soldiers as well as territorial defense units.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
-- 💵 [**Sunflower of Peace**](https://www.facebook.com/donate/507886070680475/) — prepares first aid medical tactical backpacks for paramedics and doctors on the front lines.
+- 💵 [**Hacked**](https://www.facebook.com/donate/507886070680475/) — prepares first aid medical tactical backpacks for paramedics and doctors on the front lines.
 - 💵 [**DonorUA**](https://donor.ua/support) — coordinates voluntarily blood transfusions in Ukraine.
 - 💵 [**Voices of Children**](https://voices.org.ua/en/) — provides food, water, hygiene kits, cash, and psychosocial support to children and families.
 - 💵 [**Army SOS**](https://armysos.com.ua/en/) — provides food and other support to Ukrainian troops.
