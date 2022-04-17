@@ -126,7 +126,6 @@ This list also features companies that:
 
 🇦🇹 Raiffeisen
 🇮🇹 Unicredit
-🇫🇷 Société Générale
 🇺🇸 Citi
 🇫🇷 Auchan
 
