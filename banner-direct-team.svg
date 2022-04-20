@@ -48,7 +48,7 @@ svg|a:link, svg|a:visited {
     <rect x="0" y="0" width="100%" height="110px" class="flag-blue"/>
 
     <text x="0" y="25" class="message">
-      <tspan x="25" dy="0.45em">This project is created by the team from Ukraine.</tspan>
+      <tspan x="25" dy="0.45em">This project was created by a team from Ukraine.</tspan>
       <tspan x="25" dy="1.3em">Russia has invaded Ukraine and already killed tens of thousands of civilians, with many more raped or tortured.</tspan>
       <tspan x="25" dy="1.3em">The death toll keeps climbing. It's a <tspan font-weight="bold">genocide</tspan>. We need your help. Let's fight back against the Russian regime.</tspan>
     </text>

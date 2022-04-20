@@ -54,6 +54,7 @@ svg|a:link, svg|a:visited {
     <text x="0" y="25" class="message">${ id.includes('default') ?  '' : `
       <tspan x="25" dy="0.45em">${
         id === 'single' ? 'This project was created by a developer from Ukraine.' :
+        id === 'team' ? 'This project was created by a team from Ukraine.' :
         id === 'personal' ? 'This is a personal profile of an open source software contributor from Ukraine.' :
         'This project was developed with substantial contributions from Ukrainian developers.'
       }</tspan>`}
@@ -80,6 +81,7 @@ const banners = {
   'banner': 'contributors',
   'banner-direct': 'contributors',
   'banner-direct-single': 'single',
+  'banner-direct-team': 'team',
   'banner-personal-page': 'personal'
 };
 
