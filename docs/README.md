@@ -15,6 +15,10 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 - 💵 [**Donate to the military**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) — funds used to buy equipment, ammunition, vehicles, etc. for frontline soldiers.
 - 💵 [**Donate to the humanitarian campaign**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi) — funds used to provide relief to civilians endangered by the war.
 
+### Donate Crypto via Aid For Ukraine
+
+💵 [**Aid For Ukraine**](https://donate.thedigital.gov.ua/) — an initiative launched in cooperation with the Ministry of Digital Transformation of Ukraine that converts crypto funds received into fiat and sends the donations to the National Bank of Ukraine. The donations will be used to help the Armed Forces of Ukraine as well as Ukrainian civilians in dire need of humanitarian aid.
+
 ### Donate to Non-Government Organizations
 
 > ⚠️ Refrain from sending money to **any crypto wallets**, except those found on official charity websites.<br>
@@ -24,7 +28,9 @@ Below is a list of non-profits that currently operate in Ukraine.
 Please opt-in for a monthly payment, if possible.
 
 - 💵 [**Come Back Alive**](https://www.comebackalive.in.ua/donate) — funds used to buy **non-lethal** equipment for frontline soldiers as well as territorial defense units.
+- 💵 [**Serhiy Prytula Charity Foundation**](https://prytulafoundation.org/en) — funds used to buy **non-lethal** equipment and transport vehicles for the military. Another direction of their work is humanitarian aid.
 - 💵 [**Hospitallers Battalion**](https://www.hospitallers.life/needs-hospitallers) — funds used to buy supplies and equipment for medics on the frontline.
+- 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food, hot meals and other humanitarian aid to Ukrainians.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
 - 💵 [**Sunflower of Peace**](https://www.facebook.com/donate/507886070680475/) — prepares first aid medical tactical backpacks for paramedics and doctors on the front lines.
 - 💵 [**DonorUA**](https://donor.ua/support) — coordinates voluntarily blood transfusions in Ukraine.
@@ -35,6 +41,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Nova Ukraine**](https://novaukraine.org/donate/) — provides humanitarian aid and raises awareness about Ukraine. [501(c)3, Tax ID 46-5335435]
 - 💵 [**Save the Children**](https://support.savethechildren.org/site/Donation2?df_id=5746&mfc_pref=T&5746.donation=form1) — helps children by providing food and shelter. [501(c)3, Tax ID 06-0726487]
 - 💵 [**UNICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) — provides access to safe water, nutrition, health care, education and protection. [501(c)3, Tax ID 13-1760110]
+- 💵 [**Feed the Zoo**](https://3oo.store/) — a private initiative that coollects links to Ukrainian zoos, animal funds or shelters that need help.
 
 ### Other ways to help
 
