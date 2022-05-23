@@ -133,6 +133,13 @@ This list also features companies that:
 
 Companies listed here are businesses operating in Russia that have taken definite actions to assert their support for Ukraine:
 
+- **EPAM Systems**
+    - Statements:
+       - [EPAM Provides Update on Ukraine](https://www.epam.com/about/newsroom/press-releases/2022/epam-provides-update-on-ukraine) (4th Mar 2022)
+    - Actions:
+      - Raised [$413k donations](https://www.epam.com/support-ukraine) from EPAMers & Friends
+      - Commits Additional $100 Million to Support Employees and their Families in Ukraine
+      - Launches [Ukraine Assistance Fund](https://www.epam.com/about/newsroom/press-releases/2022/epam-launches-ukraine-assistance-fund)
 - **Revolut**
   - Statements:
     - [The war on Ukraine: our response](https://blog.revolut.com/the-war-on-ukraine-our-response) (26th Feb 2022)
@@ -164,8 +171,7 @@ Companies listed here are businesses operating in Russia that have taken definit
     - Pauses all new sales in Russia and Belarus
 - **Accenture**
     - [Statement](https://newsroom.accenture.com/news/accenture-to-discontinue-business-in-russia.htm) (3rd Mar 2022)
-- **EPAM Systems**
-    - [Statement](https://www.epam.com/about/newsroom/press-releases/2022/epam-provides-update-on-ukraine) (4th Mar 2022)
+
 - **F5 (Nginx)**
     - [Statement](https://www.f5.com/company/blog/standing-firm-in-support-of-the-people-of-ukraine) (15th Mar 2022)
 - **ManyChat**
