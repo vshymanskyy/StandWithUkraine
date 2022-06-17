@@ -27,7 +27,6 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Serhiy Prytula Charity Foundation**](https://prytulafoundation.org/en) — funds used to buy **non-lethal** equipment and transport vehicles for the military and to provide humanitarian aid to Ukrainians affected by the war.
 - 💵 [**Hospitallers Battalion**](https://www.hospitallers.life/needs-hospitallers) — funds used to buy supplies and equipment for medics on the frontline.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
-- 💵 [**Sunflower of Peace**](https://www.facebook.com/donate/507886070680475/) — prepares first aid medical tactical backpacks for paramedics and doctors on the front lines.
 - 💵 [**DonorUA**](https://donor.ua/support) — coordinates voluntarily blood transfusions in Ukraine.
 - 💵 [**Voices of Children**](https://voices.org.ua/en/) — provides food, water, hygiene kits, cash, and psychosocial support to children and families.
 - 💵 [**Army SOS**](https://armysos.com.ua/en/) — provides food and other support to Ukrainian troops.
