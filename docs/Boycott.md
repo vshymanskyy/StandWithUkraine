@@ -90,7 +90,6 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. Webinar.ru
 0. Wheely
 0. Wildberries
-0. WinRAR
 0. X5 Group
 0. Yandex (Яндекс, all products)
 0. ZenMoney
