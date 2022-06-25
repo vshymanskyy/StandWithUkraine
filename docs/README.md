@@ -35,6 +35,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Nova Ukraine**](https://novaukraine.org/donate/) — provides humanitarian aid and raises awareness about Ukraine. [501(c)3, Tax ID 46-5335435]
 - 💵 [**Save the Children**](https://support.savethechildren.org/site/Donation2?df_id=5746&mfc_pref=T&5746.donation=form1) — helps children by providing food and shelter. [501(c)3, Tax ID 06-0726487]
 - 💵 [**UNICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) — provides access to safe water, nutrition, health care, education and protection. [501(c)3, Tax ID 13-1760110]
+- 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
 
 ### Other ways to help
 
