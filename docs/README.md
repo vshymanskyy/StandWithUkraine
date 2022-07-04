@@ -17,7 +17,7 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 
 ### Donate via United24
 
-- 💵 [**United24 - The initiative of the President of Ukraine**](https://u24.gov.ua/) - funds used for defence and demining, medical aid and rebuilding of Ukraine. Accepts donations via credit cards, bank transfers, PayPal and many cryptocurrencies. 
+- 💵 [**United24**](https://u24.gov.ua/) - funds used for defence and demining, medical aid and rebuilding of Ukraine.
 
 ### Donate to Non-Government Organizations
 
