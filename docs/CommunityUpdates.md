@@ -1,5 +1,15 @@
 # Ukrainian OSS community updates
 
+## Jul 17, 2022
+Update from [bocharsky-bw](https://github.com/bocharsky-bw):
+> I created a [Symfony bundle](https://github.com/bocharsky-bw/stand-with-ukraine-bundle) that provides a built-in
+#StandWithUkraine banner for your Symfony application. If you want to show the world that you're standing with Ukraine
+but haven't had time to express this yet with a banner on your website, you can use a build-in one from this bundle.
+Also the bundle has some features to block content for Russian-speaking users. Why? Great question!
+There is still war in Ukraine where civilians die every day. You can read more [here](https://github.com/bocharsky-bw/stand-with-ukraine-bundle#standwithukrainebundle).
+
+---
+
 ## Mar 19, 2022
 Update from [veelenga](https://github.com/veelenga):
 > Many companies suspend their business in Russia because of the agression.
