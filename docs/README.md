@@ -36,6 +36,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Save the Children**](https://support.savethechildren.org/site/Donation2?df_id=5746&mfc_pref=T&5746.donation=form1) — helps children by providing food and shelter. [501(c)3, Tax ID 06-0726487]
 - 💵 [**UNICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) — provides access to safe water, nutrition, health care, education and protection. [501(c)3, Tax ID 13-1760110]
 - 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
+- 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
 
 ### Other ways to help
 
