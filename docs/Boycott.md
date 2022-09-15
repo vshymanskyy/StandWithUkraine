@@ -17,7 +17,7 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. **Synopsys**
 0. **T-Systems CIS**
 0. **Tilda**
-0. **Yclients**
+0. **Yclients & Altegio (alteg.io)**
 0. 1C Company
 0. Advego
 0. AmoCRM
