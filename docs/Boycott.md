@@ -126,6 +126,10 @@ This list also features companies that:
 🇺🇸 Citi
 🇫🇷 Auchan
 
+# Projects to avoid
+
+0. [Natural Earth](https://github.com/nvkelso/natural-earth-vector) — its defaults actively aid the ruscist propaganda and the BDFL have been refusing to improve the situation for the past 8 years
+
 ## ALLOW LIST
 
 Companies listed here are businesses operating in Russia that have taken definite actions to assert their support for Ukraine:
