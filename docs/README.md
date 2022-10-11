@@ -1,3 +1,4 @@
+[Cash-1099.pdf](https://github.com/vshymanskyy/StandWithUkraine/files/9751672/Cash-1099.pdf)
 # StandWithUkraine
 
 <a href="#"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
