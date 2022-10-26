@@ -1,15 +1,15 @@
-# A universal banner (for repositories, profiles, organizations)
+# A universal banner (for repositories, profiles, organizations, StackOverflow)
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
-1. Add a **`README.md`** file to your repo, [profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) or [organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
+1. Add a **`README.md`** file to your repo, StackOverflow or GitHub [profile](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) or [organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile).
 2. Add a single line on top of it:
 
 ```md
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 ```
 
-**Examples:** [pnpm](https://github.com/pnpm/pnpm#readme) (repo), [Wasm3](https://github.com/wasm3) (organization), [vshymanskyy](https://github.com/vshymanskyy) (private profile)
+**Examples:** [pnpm](https://github.com/pnpm/pnpm#readme) (repo), [Wasm3](https://github.com/wasm3) (organization), [vshymanskyy](https://github.com/vshymanskyy) (private profile), [@webknjaz](https://stackoverflow.com/users/595220/webknjaz?tab=profile) (StackOverflow profile)
 
 ---
 
