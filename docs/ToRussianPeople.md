@@ -21,3 +21,5 @@ Do not be silent! Silence is a sign that you accept the Russian government's pol
 [4]: <https://www.youtube.com/watch?v=8K-bkqKKf2A> "Sumy under attack"
 [5]: <https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K4MTMLEHTRKGFK3GSKAT4GR3NE.jpg> "Irpin under attack"
 [6]: <https://www.youtube.com/watch?v=wxnmy1Zu0-8&list=PL8ao2ZjeM9mslBOATvDa87lvgELw281lF&index=3&t=5s> "Intercepted communication"
+
+We all remember Serbia)
