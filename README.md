@@ -72,6 +72,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF
 - [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
 - [PokeTube](https://github.com/iamashley0/poketube/) - An Youtube player thats focused on privacy
-- [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard 
+- [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard
+- [ProxyManager](https://github.com/Ocramius/ProxyManager) -  A  PHP library that aims to provide abstraction for generating various kinds of proxy classes
 - [**...and more than 10000 others**](https://github.com/search?o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
 
