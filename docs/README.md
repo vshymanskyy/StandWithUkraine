@@ -15,6 +15,10 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 - 💵 [**Donate to the military**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi) — funds used to buy equipment, ammunition, vehicles, etc. for frontline soldiers.
 - 💵 [**Donate to the humanitarian campaign**](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi) — funds used to provide relief to civilians endangered by the war.
 
+### Donate via United24
+
+- 💵 [**United24**](https://u24.gov.ua/) - funds used for defence and demining, medical aid and rebuilding of Ukraine.
+
 ### Donate to Non-Government Organizations
 
 > ⚠️ Refrain from sending money to **any crypto wallets**, except those found on official charity websites.<br>
