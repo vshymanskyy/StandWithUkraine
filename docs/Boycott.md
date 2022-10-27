@@ -108,7 +108,6 @@ This list also features companies that:
 # Other companies to avoid
 
 🇬🇧 Unilever
-🇩🇪 Metro
 🇫🇷 Danone
 🇨🇭 Nestlé
 🇺🇸 Colgate-Palmolive
