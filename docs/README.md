@@ -23,7 +23,7 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 Below is a list of non-profits that currently operate in Ukraine.
 Please opt-in for a monthly payment, if possible.
 
-- 💵 [**Come Back Alive**](https://www.comebackalive.in.ua/donate) — funds used to buy **non-lethal** equipment for frontline soldiers as well as territorial defense units.
+- 💵 [**Come Back Alive**](https://www.comebackalive.in.ua/donate) — funds used to buy equipment for frontline soldiers as well as territorial defense units.
 - 💵 [**Serhiy Prytula Charity Foundation**](https://prytulafoundation.org/en) — funds used to buy **non-lethal** equipment and transport vehicles for the military and to provide humanitarian aid to Ukrainians affected by the war.
 - 💵 [**Hospitallers Battalion**](https://www.hospitallers.life/needs-hospitallers) — funds used to buy supplies and equipment for medics on the frontline.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
@@ -37,6 +37,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**UNICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) — provides access to safe water, nutrition, health care, education and protection. [501(c)3, Tax ID 13-1760110]
 - 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
 - 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
+- 💵 [**United Help Ukraine**](https://unitedhelpukraine.org/) — charitable foundation that supports wounded warriors' rehabilitation and internally displaced persons' needs [501(c)3, Tax ID 47-1837509].
 
 ### Other ways to help
 

@@ -17,7 +17,7 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. **Synopsys**
 0. **T-Systems CIS**
 0. **Tilda**
-0. **Yclients**
+0. **Yclients & Altegio (alteg.io)**
 0. 1C Company
 0. Advego
 0. AmoCRM
@@ -108,7 +108,6 @@ This list also features companies that:
 # Other companies to avoid
 
 🇬🇧 Unilever
-🇩🇪 Metro
 🇫🇷 Danone
 🇨🇭 Nestlé
 🇺🇸 Colgate-Palmolive
@@ -125,6 +124,10 @@ This list also features companies that:
 🇮🇹 Unicredit
 🇺🇸 Citi
 🇫🇷 Auchan
+
+# Projects to avoid
+
+0. [Natural Earth](https://github.com/nvkelso/natural-earth-vector) — its defaults actively aid the ruscist propaganda and the BDFL have been refusing to improve the situation for the past 8 years
 
 ## ALLOW LIST
 

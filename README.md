@@ -30,7 +30,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [wasm2native](https://github.com/vshymanskyy/wasm2native) - Turn WASI apps into native executables
 - [node-wasm-run](https://github.com/wasm3/node-wasm-run) - Run arbitrary WASM/WASI files
 - [embedded-wasm-apps](https://github.com/wasm3/embedded-wasm-apps) - Statically-compiled WebAssembly apps on any embedded platform
-- [easy-upload](https://github.com/techmovie/easy-upload) - Reproducing torrents for mainstream Chinese and international private trackers sites
 - [php-vast](https://github.com/sokil/php-vast) - VAST Ad generator and parser library on PHP
 - [miband-js](https://github.com/vshymanskyy/miband-js) - A clean implementation of Mi Band 2 library for Browsers and Node.js, using WebBluetooth API
 - [vue-barcode-reader](https://github.com/olefirenko/vue-barcode-reader) - A Vue.js set of components to scan (or upload images) barcodes and QR codes
@@ -73,6 +72,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF
 - [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
 - [PokeTube](https://github.com/iamashley0/poketube/) - An Youtube player thats focused on privacy
-- [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard 
-- [**...and more than 5000 others**](https://github.com/search?o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
+- [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard
+- [ProxyManager](https://github.com/Ocramius/ProxyManager) -  A  PHP library that aims to provide abstraction for generating various kinds of proxy classes
+- [**...and more than 10000 others**](https://github.com/search?o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
 
