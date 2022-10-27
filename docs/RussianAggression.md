@@ -3,8 +3,10 @@
 Russia is provoking war and commiting genocide for decades, and was never held accountable.
 
 According to the Global Peace Index by Vision for Humanity,
-the Russian Federation is 160th most peaceful of 163 countries in 2022
-(down from 156th in 2021 and 154th in 2020).
+the Russian Federation is **160th most peaceful of 163 countries**:
+- **154**th in 2020
+- **156**th in 2021
+- **160**th in 2022
 
 ## Past conflicts
 
