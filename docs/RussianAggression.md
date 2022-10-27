@@ -12,7 +12,7 @@ the Russian Federation is 160th most peaceful of 163 countries in 2022
 * `1992-1993` – Russia provoked the Abkhazian war (via Russian-backed separatists)
 * `1994-1996` – first Russian-Chechen war
 * `1999-2009` – second Russian-Chechen war
-* `     2008` – Russian-Georgian war
+* `2008` – Russian-Georgian war
 
 ## Ongoing conflicts
 
