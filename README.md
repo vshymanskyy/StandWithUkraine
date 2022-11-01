@@ -74,5 +74,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [PokeTube](https://github.com/iamashley0/poketube/) - An Youtube player thats focused on privacy
 - [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) -  A  PHP library that aims to provide abstraction for generating various kinds of proxy classes
+- [FAR.js](https://github.com/farjs/farjs) - Cross-platform File and ARchive Manager in your terminal
 - [**...and more than 10000 others**](https://github.com/search?o=desc&q=vshymanskyy+StandWithUkraine&s=indexed&type=Code)
 
