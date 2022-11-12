@@ -27,7 +27,7 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 Below is a list of non-profits that currently operate in Ukraine.
 Please opt-in for a monthly payment, if possible.
 
-- 💵 [**Come Back Alive**](https://www.comebackalive.in.ua/donate) — funds used to buy equipment for frontline soldiers as well as territorial defense units.
+- 💵 [**Come Back Alive**](https://savelife.in.ua/en/donate-en/) — funds used to buy equipment for frontline soldiers as well as territorial defense units.
 - 💵 [**Serhiy Prytula Charity Foundation**](https://prytulafoundation.org/en) — funds used to buy **non-lethal** equipment and transport vehicles for the military and to provide humanitarian aid to Ukrainians affected by the war.
 - 💵 [**Hospitallers Battalion**](https://www.hospitallers.life/needs-hospitallers) — funds used to buy supplies and equipment for medics on the frontline.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
