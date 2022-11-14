@@ -68,38 +68,39 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. R-Keeper
 0. ROIStat
 0. Readymag
-0. S7 (cargo, airlines, etc)
-0. Savepic
-0. ScreenShare
-0. Screeps (MMO sandbox game for programmers)
-0. SendSay
-0. ServiceGuru
-0. Signum
-0. SiteAnalyzer
-0. SkillFactory
-0. Skillbox
-0. Skyeng
-0. TamoSoft
-0. Unisender
-0. Utmstat
-0. VK (VKontakte)
-0. Videoforce
-0. VividMoney
-0. Voximplant
-0. Waves
-0. Webinar.ru
-0. Wheely
-0. Wildberries
-0. X5 Group
-0. Yandex (Яндекс, all products)
-0. ZenMoney
-0. Zillion Whales
-0. fastpic.ru
-0. grc.ua (part of HeadHunter)
-0. iPick.su
-0. iSpring
-0. iiko
-0. Вчи.юа
+1. RUTUBE
+2. S7 (cargo, airlines, etc)
+3. Savepic
+4. ScreenShare
+5. Screeps (MMO sandbox game for programmers)
+6. SendSay
+7. ServiceGuru
+8. Signum
+9. SiteAnalyzer
+10. SkillFactory
+11. Skillbox
+12. Skyeng
+13. TamoSoft
+14. Unisender
+15. Utmstat
+16. VK (VKontakte)
+17. Videoforce
+18. VividMoney
+19. Voximplant
+20. Waves
+21. Webinar.ru
+22. Wheely
+23. Wildberries
+24. X5 Group
+25. Yandex (Яндекс, all products)
+26. ZenMoney
+27. Zillion Whales
+28. fastpic.ru
+29. grc.ua (part of HeadHunter)
+30. iPick.su
+31. iSpring
+32. iiko
+33. Вчи.юа
 
 This list also features companies that:
 - Have large offices operating in Russia
