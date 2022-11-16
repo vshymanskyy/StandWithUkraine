@@ -68,6 +68,7 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. R-Keeper
 0. ROIStat
 0. Readymag
+0. RUTUBE
 0. S7 (cargo, airlines, etc)
 0. Savepic
 0. ScreenShare
