@@ -125,6 +125,7 @@ This list also features companies that:
 🇮🇹 Unicredit
 🇺🇸 Citi
 🇫🇷 Auchan
+🇩🇪 Metro AG
 
 # Projects to avoid
 
