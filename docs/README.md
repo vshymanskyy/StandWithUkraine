@@ -29,6 +29,7 @@ Please opt-in for a monthly payment, if possible.
 
 - 💵 [**Come Back Alive**](https://savelife.in.ua/en/donate-en/) — funds used to buy equipment for frontline soldiers as well as territorial defense units.
 - 💵 [**Serhiy Prytula Charity Foundation**](https://prytulafoundation.org/en) — funds used to buy **non-lethal** equipment and transport vehicles for the military and to provide humanitarian aid to Ukrainians affected by the war.
+- 💵 [**Dzyga’s Paw**](https://dzygaspaw.com/) — supplies the Ukrainian military with high-tech equipment
 - 💵 [**Hospitallers Battalion**](https://www.hospitallers.life/needs-hospitallers) — funds used to buy supplies and equipment for medics on the frontline.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
 - 💵 [**DonorUA**](https://donor.ua/support) — coordinates voluntarily blood transfusions in Ukraine.
