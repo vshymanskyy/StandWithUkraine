@@ -76,5 +76,5 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) -  A  PHP library that aims to provide abstraction for generating various kinds of proxy classes
 - [FAR.js](https://github.com/farjs/farjs) - Cross-platform File and ARchive Manager in your terminal
 - [Stacks.js](https://github.com/stacksjs) - Develop modern clouds, apps & framework-agnostic libraries, faster
-- [**...and more than 14000 others**](https://github.com/search?q=vshymanskyy%2FStandWithUkraine&type=codelegacy)
+- [**...and more than 18000 others**](https://github.com/search?q=vshymanskyy%2FStandWithUkraine&type=codelegacy)
 
