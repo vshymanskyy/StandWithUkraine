@@ -43,6 +43,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
 - 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
 - 💵 [**United Help Ukraine**](https://unitedhelpukraine.org/) — charitable foundation that supports wounded warriors' rehabilitation and internally displaced persons' needs [501(c)3, Tax ID 47-1837509].
+- 💵 [**Sprava Hromad**](https://spgr.org.ua/en/portfolio-items/army_support/) — funds are being used to buy armored and transport vehicles, medium and heavy trucks, large UAV systems, communication systems, etc. for frontline UAF divisions.
 
 ### Other ways to help
 
