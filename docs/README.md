@@ -43,6 +43,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
 - 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
 - 💵 [**United Help Ukraine**](https://unitedhelpukraine.org/) — charitable foundation that supports wounded warriors' rehabilitation and internally displaced persons' needs [501(c)3, Tax ID 47-1837509].
+- 💵 [**Leleka Foundation**](https://leleka.care/) — a non-profit organization that equips medical professionals saving lives in Ukraine since 2014 [501(c)3, Tax ID 47-2377309].
 
 ### Other ways to help
 
