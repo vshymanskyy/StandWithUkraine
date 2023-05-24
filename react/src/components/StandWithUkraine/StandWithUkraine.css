@@ -1,0 +1,16 @@
+.StantWithUkraine {
+}
+
+.StantWithUkraine > .top {
+  background-color: #0057b7;
+  padding: 16px;
+  font-size: 20px;
+  color: white;
+  width: fit-content
+}
+
+.StantWithUkraine > .bottom {
+  background-color: #ffd700;
+  font-size: 32px;
+  text-align: center;
+}
