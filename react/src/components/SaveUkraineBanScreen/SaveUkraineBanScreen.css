@@ -1,4 +1,4 @@
-.SaveUkraineBanScreen {
+.SaveUkraineBanScreen > *{
   left: 0;
   top: 0;
   
@@ -9,16 +9,14 @@
 }
 
 .SaveUkraineBanScreen > .blood {
-  position: absolute;
-  top: 0;
+  left: auto;
   right: 60vw;
   height: 100vh;
+  width: auto;
 }
 
 .SaveUkraineBanScreen > .text {
-  position: absolute;
   top: 35vh;
-  width: 100%;
   text-align: center;
 
   font-size: 50px;
