@@ -8,6 +8,13 @@
   position: absolute;
 }
 
+.SaveUkraineBanScreen > .blood {
+  position: absolute;
+  top: 0;
+  right: 60vw;
+  height: 100vh;
+}
+
 .SaveUkraineBanScreen > .text {
   position: absolute;
   top: 35vh;
