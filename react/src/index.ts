@@ -1,4 +1,5 @@
 import StandWithUkraine from "./components/StandWithUkraine";
-import SaveUkraineBanner from "./components/SaveUkraineBanner/SaveUkraineBanner";
+import SaveUkraineBanScreen from "./components/SaveUkraineBanScreen";
+import SaveUkraineRibbon from "./components/SaveUkraineRibbon/SaveUkraineRibbon";
 
-export { StandWithUkraine, SaveUkraineBanner };
+export { StandWithUkraine, SaveUkraineBanScreen, SaveUkraineRibbon };

@@ -1,1 +1,1 @@
-export { default } from "./StandWithUkraine";
+export {default} from "./StandWithUkraine";
