@@ -1,5 +1,6 @@
 import React, { createRef, useEffect, useState } from "react";
 import "./StandWithUkraine.css";
+import getRelevance from "../relevance";
 
 export interface StandWithUkraineProps {
   single?: boolean;
@@ -17,7 +18,6 @@ export default function StandWithUkraine(props: StandWithUkraineProps) {
   const [height, setHeight] = useState(0);
 
   useEffect(() => {
-    console.log(topRef);
     if (!topRef.current) return; // wait for the elementRef to be available
     const resizeObserver = new ResizeObserver((e: ResizeObserverEntry[]) => {
       setHeight(e[0].target.clientHeight);
@@ -29,8 +29,12 @@ export default function StandWithUkraine(props: StandWithUkraineProps) {
   const h = height + "px";
   const { single, team, contribution, url } = props;
 
+  const [relevant, setRelevant] = React.useState<boolean|undefined>();
+  if (relevant === undefined)
+    getRelevance(setRelevant); 
 
-  return <div className="StantWithUkraine" onClick={() => {
+
+  return <div hidden={!relevant} className="StantWithUkraine" onClick={() => {
     if (url) {
       window.location.href = url;
     }

@@ -3,6 +3,7 @@ import "./SaveUkraineBanScreen.css";
 import { getUserLanguage, randomItem } from "../Utility";
 import Flag from "../SaveUkraineRibbon/Flag";
 import { CSSTransition } from "react-transition-group";
+import getRelevance from "../relevance";
 
 
 export const UKRAINE_FLAG_IMAGE_URL = "data:image/svg+xml,%3Csvg class='flag' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800'%3E%3Crect width='1200' height='800' fill='%23005BBB'/%3E%3Crect width='1200' height='400' y='400' fill='%23FFD500'/%3E%3C/svg%3E";
@@ -29,13 +30,17 @@ export default function SaveUkraineBanScreen(props: SaveUkraineBanScreenProps) {
   const { text, hideBlood, countries, isCancelable, forceShow, isGraphicIncluded, className, ...other } = { ...defaultProps, ...props };
   const [banned, removeBan] = React.useState(true);
 
+  const [relevant, setRelevant] = React.useState<boolean|undefined>();
+  if (relevant === undefined)
+    getRelevance(setRelevant);
+
   const lang = getUserLanguage();
-  if (countries.indexOf(lang) === -1 && !forceShow) {
+  if ((countries.indexOf(lang) === -1) && !forceShow) {
     return null
   }
 
   return <CSSTransition
-    in={banned}
+    in={banned && relevant}
     timeout={{
       enter: 0,
       exit: 200

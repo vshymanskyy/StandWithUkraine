@@ -58,3 +58,11 @@
   opacity: 0;
   transition: opacity 200ms;
 }
+
+.slide-down-ban-screen-enter {
+  opacity: 0;
+}
+.slide-down-ban-screen-enter-active {
+  opacity: 1;
+  transition: opacity 200ms;
+}
