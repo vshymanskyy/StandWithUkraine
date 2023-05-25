@@ -15,8 +15,30 @@
   width: auto;
 }
 
+.SaveUkraineBanScreen > .graphics {
+  opacity: 0.3;
+}
+
+.SaveUkraineBanScreen > .cancel {
+  top: 0;
+  left: auto;
+  right: 0;
+  cursor: pointer;
+  font-size: 35px;
+  color: #FFD500;
+  background-color: transparent;
+  border: none;
+  width: fit-content;
+  height: fit-content;
+}
+
+.SaveUkraineBanScreen > .cancel:hover{
+  color: #ffffff;
+}
+
 .SaveUkraineBanScreen > .text {
-  top: 35vh;
+  top: auto;
+  bottom: calc(-50vh + 170px);
   text-align: center;
 
   font-size: 50px;

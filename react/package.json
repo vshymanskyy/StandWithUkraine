@@ -1,7 +1,7 @@
 {
-  "name": "my-awesome-component-library",
-  "version": "1.0.3",
-  "description": "A stroybook 6 with TypeScript demo",
+  "name": "stand-with-ukraine-react",
+  "version": "0.0.1",
+  "description": "React components for stand with react and save ukraine",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
@@ -21,7 +21,7 @@
     "react",
     "typescript"
   ],
-  "author": "Prateek Surana",
+  "author": "Julian Wandhoven",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.9",

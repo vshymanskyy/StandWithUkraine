@@ -17,24 +17,6 @@ export const banner: Story = {
   args: {
   },
   argTypes: {
-    position :{
-      table: {
-        defaultValue: { summary: defaultProps.position }
-      },
-      description:  'The location of the Ribbon',
-    },
-    url :{
-      table: {
-        defaultValue: { summary: defaultProps.url }
-      },
-      description:  'The Url to redierect to',
-    },
-    noRedirect :{
-      table: {
-        defaultValue: { summary: defaultProps.noRedirect }
-      },
-      description:  'Do not redirect on click',
-    }
   },
   parameters: {
     docs: {
