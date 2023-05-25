@@ -2,3 +2,12 @@
 
 ### 📢 [Updates from Ukrainian Open Source Community](/docs/CommunityUpdates.md)
 ### 🇷🇺 [Обращение к гражданам России](/docs/ToRussianPeople.md)
+
+# Instalation
+Install using yarn
+```
+yarn add stand-with-ukraine-react
+```
+
+# Docs
+https://wandhoven.ddns.net/docs/stand-with-ukraine

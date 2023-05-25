@@ -1,34 +1,30 @@
 import type { Meta, StoryObj } from "@storybook/react";
-import SaveUkraineBanner, { SaveUkraineBannerProps, defaultProps } from "./SaveUkraineBanner";
+import SaveUkraineRibbon, { SaveUkraineRibbonProps, defaultProps } from "./SaveUkraineRibbon";
+import { url } from "../Utility";
 
 // Default metadata of the story https://storybook.js.org/docs/react/api/csf#default-export
-const meta: Meta<typeof SaveUkraineBanner> = {
-  title: "Components/SaveUkraineBanner",
-  component: SaveUkraineBanner,
+const meta: Meta<typeof SaveUkraineRibbon> = {
+  title: "Components/SaveUkraineRibbon",
+  component: SaveUkraineRibbon,
 };
 
 export default meta;
 
 // The story type for the component https://storybook.js.org/docs/react/api/csf#named-story-exports
-type Story = StoryObj<typeof SaveUkraineBanner>;
+type Story = StoryObj<typeof SaveUkraineRibbon>;
 
 
-export const banner: Story = {
+export const ribbon: Story = {
   args: {
   },
   argTypes: {
     position :{
       table: {
-        defaultValue: { summary: defaultProps.position }
+        defaultValue: { summary: defaultProps.position },
       },
       description:  'The location of the Ribbon',
     },
-    url :{
-      table: {
-        defaultValue: { summary: defaultProps.url }
-      },
-      description:  'The Url to redierect to',
-    },
+    url: url,
     noRedirect :{
       table: {
         defaultValue: { summary: defaultProps.noRedirect }

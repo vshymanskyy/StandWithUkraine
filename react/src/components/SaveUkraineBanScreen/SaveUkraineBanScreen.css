@@ -49,3 +49,12 @@
   display: block;
   font-size: 100px;
 }
+
+
+.slide-down-ban-screen-exit {
+  opacity: 1;
+}
+.slide-down-ban-screen-exit-active {
+  opacity: 0;
+  transition: opacity 200ms;
+}
