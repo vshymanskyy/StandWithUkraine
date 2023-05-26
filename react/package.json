@@ -1,6 +1,6 @@
 {
   "name": "stand-with-ukraine-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React components for stand with react and save ukraine",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
@@ -20,6 +20,13 @@
     "ukraine",
     "react",
     "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JulianWww/StandWithUkraine"
+  },
+  "files": [
+    "src"
   ],
   "author": "Julian Wandhoven",
   "license": "MIT",
