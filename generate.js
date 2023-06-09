@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const template = id => `<svg viewBox="0 0 1040 200" xmlns="http://www.w3.org/2000/svg">
+const template = id => `<svg viewBox="0 0 800 130" xmlns="http://www.w3.org/2000/svg">
   <style>
 @namespace svg url(http://www.w3.org/2000/svg);
 
@@ -14,59 +14,40 @@ svg|a:link, svg|a:visited {
   cursor: pointer;
 }
 .flag-blue {
-  fill: #0057b7;
+  fill: #0056b3;
 }
 .flag-yellow {
   fill: #ffd700;
 }
 .message {
   fill: white;
-  font-size: 20px;
+  font-size: 18px;
 }
 .call {
   fill: black;
-  font-size: 32px;
-}
-.mobile-only {
-  display: none;
+  font-size: 22px;
 }
 .arrow {
-  font-size: 24px;
+  font-size: 14px;
 }
-@media (max-width: 770px) {
-  .message {
-    display: none;
-    font-size: 29px;
-  }
-  .mobile-only {
-    display: inherit;
-  }
-  .call {
-    font-size: 36px;
-  }
-}
-  </style>
+</style>
 
   <a href="https://stand-with-ukraine.pp.ua">
     <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
-    <rect x="0" y="0" width="100%" height="110px" class="flag-blue"/>
+    <rect x="0" y="0" width="100%" height="90px" class="flag-blue"/>
 
     <text x="0" y="25" class="message">${ id.includes('default') ?  '' : `
-      <tspan x="25" dy="0.45em">${
-        id === 'single' ? 'This project was created by a developer from Ukraine.' :
-        id === 'team' ? 'This project was created by a team from Ukraine.' :
-        id === 'personal' ? 'This is a personal profile of an open source software contributor from Ukraine.' :
-        'This project was developed with substantial contributions from Ukrainian developers.'
+      <tspan x="30" dy="0.2em">${
+        id === 'single' ? 'This project was created by a <tspan font-weight="bold">developer from Ukraine</tspan>.' :
+        id === 'team' ? 'This project was created by a <tspan font-weight="bold">team from Ukraine</tspan>.' :
+        id === 'personal' ? 'This is a personal profile of an <tspan font-weight="bold">open source developer from Ukraine</tspan>.' :
+        'This project was developed with substantial contributions by <tspan font-weight="bold">Ukrainian developers</tspan>.'
       }</tspan>`}
-      <tspan x="25" dy="${ id.includes('default') ? 1.15 : 1.3 }em">Russia has invaded Ukraine and already killed tens of thousands of civilians, with many more raped or tortured.</tspan>
-      <tspan x="25" dy="${ id.includes('default') ? 1.35 : 1.3 }em">The death toll keeps climbing. It's a <tspan font-weight="bold">genocide</tspan>. We need your help. Let's fight back against the Russian regime.</tspan>
-    </text>
-    <text x="0" y="25" class="message mobile-only">
-      <tspan x="25" dy=".7em">Russia has invaded Ukraine and already killed tens of thousands of civilians,</tspan>
-      <tspan x="25" dy="1.2em">with many more raped or tortured. It's a <tspan font-weight="bold">genocide</tspan>. We need your help.</tspan>
+      <tspan x="30" dy="${ id.includes('default') ? 0.8 : 1.2 }em">Russia invaded Ukraine, killing tens of thousands of civilians and displacing millions more.</tspan>
+      <tspan x="30" dy="1.2em">It's a genocide. Please help us defend freedom, democracy and Ukraine's right to exist.</tspan>
     </text>
 
-    <text x="50%" y="78.5%" dominant-baseline="middle" text-anchor="middle" class="call">
+    <text x="50%" y="86%" dominant-baseline="middle" text-anchor="middle" class="call">
       Help Ukraine Now${ id === 'default-header' ? '' : ' <tspan dominant-baseline="middle" class="arrow">➔</tspan>'}
     </text>
   </a>
