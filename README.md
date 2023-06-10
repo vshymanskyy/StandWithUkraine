@@ -18,6 +18,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 ## Projects that #StandWithUkraine
 
+- [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - A variant of TypeScript that compiles to WebAssembly using Binaryen
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 - [MacPaw](https://github.com/MacPaw) - A company behind prominent Mac software: CleanMyMac X, Setapp, Gemini 2, The Unarchiver
 - [AVA.js](https://github.com/avajs/ava) - A test runner for Node.js that lets you develop with confidence
