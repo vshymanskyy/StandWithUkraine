@@ -3,3 +3,6 @@ react/node_modules/
 react/lib/
 *.log
 
+react/package-lock.json
+react/yarn.lock
+react/yarn.lock

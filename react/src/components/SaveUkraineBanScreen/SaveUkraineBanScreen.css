@@ -6,6 +6,7 @@
   height: 100vh;
 
   position: absolute;
+  z-index: 2147483647;
 }
 
 .SaveUkraineBanScreen > .blood {
@@ -48,6 +49,7 @@
 .SaveUkraineBanScreen > .text b {
   display: block;
   font-size: 100px;
+  margin-top: 50px;
 }
 
 
