@@ -1,3 +1,4 @@
+![Screenshot_20230812_023325](https://github.com/vshymanskyy/StandWithUkraine/assets/142044318/3af78b06-6e18-46a6-aa8c-179578f136e7)
 # Ukrainian OSS community updates
 
 ## Jul 17, 2022
