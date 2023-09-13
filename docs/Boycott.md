@@ -108,24 +108,27 @@ This list also features companies that:
 
 # Other companies to avoid
 
-🇬🇧 Unilever
-🇫🇷 Danone
-🇨🇭 Nestlé
-🇺🇸 Colgate-Palmolive
-🇺🇸 Johnson & Johnson
+🇬🇧 Unilever  
+🇫🇷 Danone  
+🇨🇭 Nestlé  
+🇺🇸 Mondelez  
+🇺🇸 Colgate-Palmolive  
+🇺🇸 Johnson & Johnson  
 
-🇮🇹 Danieli
-🇩🇰 Grundfos
+🇮🇹 Danieli  
+🇩🇰 Grundfos  
 
-🇨🇭 Syngenta
-🇺🇸 DuPont
-🇺🇸 Dow Chemical
+🇨🇭 Syngenta  
+🇺🇸 DuPont  
+🇺🇸 Dow Chemical  
 
-🇦🇹 Raiffeisen
-🇮🇹 Unicredit
-🇺🇸 Citi
-🇫🇷 Auchan
-🇩🇪 Metro AG
+🇦🇹 Raiffeisen  
+🇮🇹 Unicredit  
+🇺🇸 Citi  
+🇫🇷 Auchan  
+🇩🇪 Metro AG  
+
+Check [Yale CELI List of Companies Leaving and Staying in Russia](https://www.yalerussianbusinessretreat.com/) for more information
 
 # Projects to avoid
 
