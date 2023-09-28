@@ -43,6 +43,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
 - 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
 - 💵 [**United Help Ukraine**](https://unitedhelpukraine.org/) — charitable foundation that supports wounded warriors' rehabilitation and internally displaced persons' needs [501(c)3, Tax ID 47-1837509].
+- 💵 [**Opir**](https://opir.org/) - focuses on providing individual items and equipment to fighters at the platoon and group levels.
 - 💵 [**Dignitas Ukraine Inc**](https://dignitas.fund/) — Supporting people of Ukraine through the provision of essential humanitarian supplies, technology, training initiatives and expert guidance [501(c)3, Tax ID 92-3194330].
 
 ### Other ways to help
