@@ -2,8 +2,8 @@
 
 <a href="#"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg" /></a>
 
- 📢 [Updates from Ukrainian Open Source Community](CommunityUpdates.md)  
- 🇷🇺 [Обращение к гражданам России](ToRussianPeople.md)
+📢 [Updates from Ukrainian Open Source Community](CommunityUpdates.md)
+🇷🇺 [Обращение к гражданам России](ToRussianPeople.md)
 
 ## Support Ukraine
 
@@ -17,7 +17,7 @@ These funds will be used to finance local humanitarian relief, as well as Ukrain
 
 ### Donate via United24
 
-- 💵 [**United24**](https://u24.gov.ua/) - funds used for defence and demining, medical aid and rebuilding of Ukraine.
+- 💵 [**United24**](https://u24.gov.ua/) - funds used for defense and demining, medical aid and rebuilding of Ukraine.
 
 ### Donate to Non-Government Organizations
 
@@ -29,7 +29,7 @@ Please opt-in for a monthly payment, if possible.
 
 - 💵 [**Come Back Alive**](https://savelife.in.ua/en/donate-en/) — funds used to buy equipment for frontline soldiers as well as territorial defense units.
 - 💵 [**Serhiy Prytula Charity Foundation**](https://prytulafoundation.org/en) — funds used to buy **non-lethal** equipment and transport vehicles for the military and to provide humanitarian aid to Ukrainians affected by the war.
-- 💵 [**Dzyga’s Paw**](https://dzygaspaw.com/) — supplies the Ukrainian military with high-tech equipment
+- 💵 [**Dzyga’s Paw**](https://dzygaspaw.com/) — supplies the Ukrainian military with high-tech equipment.
 - 💵 [**Hospitallers Battalion**](https://www.hospitallers.life/needs-hospitallers) — funds used to buy supplies and equipment for medics on the frontline.
 - 💵 [**Ukrainian Red Cross**](https://redcross.org.ua/en/donate/) — provides humanitarian relief to Ukrainians affected by the war.
 - 💵 [**DonorUA**](https://donor.ua/support) — coordinates voluntarily blood transfusions in Ukraine.
@@ -37,13 +37,15 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**Army SOS**](https://armysos.com.ua/en/) — provides food and other support to Ukrainian troops.
 - 💵 [**Territory of Kindness**](https://vuf-td.space/en/) — provides support to children, army, help with medical supplies procurement.
 - 💵 [**People In Need**](https://www.peopleinneed.net/donate/once) (select `SOS Ukraine`) — focuses on providing food, clean water, and hygienic products to those impacted by Russian aggression.
-- 💵 [**Nova Ukraine**](https://novaukraine.org/donate/) — provides humanitarian aid and raises awareness about Ukraine. [501(c)3, Tax ID 46-5335435]
-- 💵 [**Save the Children**](https://support.savethechildren.org/site/Donation2?df_id=5746&mfc_pref=T&5746.donation=form1) — helps children by providing food and shelter. [501(c)3, Tax ID 06-0726487]
-- 💵 [**UNICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) — provides access to safe water, nutrition, health care, education and protection. [501(c)3, Tax ID 13-1760110]
+- 💵 [**Nova Ukraine**](https://novaukraine.org/donate/) — provides humanitarian aid and raises awareness about Ukraine. [501(c)3, Tax ID 46-5335435].
+- 💵 [**Save the Children**](https://support.savethechildren.org/site/Donation2?df_id=5746&mfc_pref=T&5746.donation=form1) — helps children by providing food and shelter. [501(c)3, Tax ID 06-0726487].
+- 💵 [**UNICEF USA**](https://www.unicefusa.org/war-ukraine?form=FUNKBHMZQDQ) — provides access to safe water, nutrition, health care, education and protection. [501(c)3, Tax ID 13-1760110].
 - 💵 [**Soloma Cats**](https://kittysoloma.org/en) — charitable foundation that focuses on **tactical medicine** and **demining**.
 - 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
 - 💵 [**United Help Ukraine**](https://unitedhelpukraine.org/) — charitable foundation that supports wounded warriors' rehabilitation and internally displaced persons' needs [501(c)3, Tax ID 47-1837509].
 - 💵 [**Sprava Hromad**](https://spgr.org.ua/en/portfolio-items/army_support/) — funds are being used to buy armored and transport vehicles, medium and heavy trucks, large UAV systems, communication systems, etc. for frontline UAF divisions.
+- 💵 [**Opir**](https://opir.org/) - focuses on providing individual items and equipment to fighters at the platoon and group levels.
+- 💵 [**Dignitas Ukraine Inc**](https://dignitas.fund/) — Supporting people of Ukraine through the provision of essential humanitarian supplies, technology, training initiatives and expert guidance [501(c)3, Tax ID 92-3194330].
 
 ### Other ways to help
 
