@@ -18,6 +18,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 
 ## Projects that #StandWithUkraine
 
+- [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - A variant of TypeScript that compiles to WebAssembly using Binaryen
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 - [MacPaw](https://github.com/MacPaw) - A company behind prominent Mac software: CleanMyMac X, Setapp, Gemini 2, The Unarchiver
 - [AVA.js](https://github.com/avajs/ava) - A test runner for Node.js that lets you develop with confidence
@@ -32,7 +33,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [embedded-wasm-apps](https://github.com/wasm3/embedded-wasm-apps) - Statically-compiled WebAssembly apps on any embedded platform
 - [php-vast](https://github.com/sokil/php-vast) - VAST Ad generator and parser library on PHP
 - [miband-js](https://github.com/vshymanskyy/miband-js) - A clean implementation of Mi Band 2 library for Browsers and Node.js, using WebBluetooth API
-- [vue-barcode-reader](https://github.com/olefirenko/vue-barcode-reader) - A Vue.js set of components to scan (or upload images) barcodes and QR codes
 - [mailamie](https://github.com/micc83/mailamie) - A simple SMTP catch all server for testing written in PHP
 - [ReStable](https://github.com/micc83/ReStable) - jQuery plugin that makes tables responsive converting them to HTML lists
 - [phpbench](https://github.com/phpbench/phpbench) - PHPBench is a benchmark runner for PHP analogous to PHPUnit but for performance rather than correctness
@@ -43,7 +43,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Symfony](https://symfony.com/blog/symfony-stands-with-ukraine) - Symfony is a popular PHP framework
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [Awesome Crystal](https://github.com/veelenga/awesome-crystal) - A collection of awesome Crystal libraries, tools, frameworks and software
-- [Ameba](https://github.com/crystal-ameba/ameba) - A static code analysis tool for Crystal
 - [bcrypt.net](https://github.com/BcryptNet/bcrypt.net) - Porting of bcrypt.codeplex.com with enhanced security, missing fixes, features and better .net support
 - [lvgl-rs](https://github.com/rafaelcaricio/lvgl-rs) - Open-source Embedded GUI Library in Rust
 - [iban-validation](https://github.com/jschaedl/iban-validation) - A small library for validating International BankAccount Numbers (IBANs)
@@ -64,7 +63,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [Moped](https://github.com/RobertoMachorro/Moped) - A general purpose text editor, small and light
 - [fluent-vue](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js 
 - [Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
-- [T-Regx](https://github.com/T-Regx/T-Regx) - PHP regular expression brought up to modern standards
 - [bootScore](https://github.com/bootscore/bootscore) - A powerful, free Bootstrap 5 starter theme for WordPress
 - [UAdata](https://github.com/uadata/uadata) - Ukrainian data hub with API
 - [MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A toolkit for creating modern WPF applications. Lots of goodness out-of-the box
@@ -72,9 +70,8 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF
 - [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
 - [PokeTube](https://github.com/iamashley0/poketube/) - An Youtube player thats focused on privacy
-- [Sorry Cypress](https://github.com/sorry-cypress/sorry-cypress) - Open source alternative to Cypress Dashboard
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) -  A  PHP library that aims to provide abstraction for generating various kinds of proxy classes
 - [FAR.js](https://github.com/farjs/farjs) - Cross-platform File and ARchive Manager in your terminal
 - [Stacks.js](https://github.com/stacksjs) - Develop modern clouds, apps & framework-agnostic libraries, faster
-- [**...and more than 23000 others**](https://github.com/search?q=vshymanskyy%2FStandWithUkraine&type=codelegacy)
+- [**...and more than 23000 others**](https://github.com/search?q=vshymanskyy%2FStandWithUkraine&type=code)
 
