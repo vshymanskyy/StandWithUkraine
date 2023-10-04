@@ -42,11 +42,13 @@ jobs:
         uses: borales/actions-yarn@v4
         with:
           cmd: install # will run `yarn install` command
+          dir: react
 
       - name: Generate Documentation
         uses: borales/actions-yarn@v4
         with:
           cmd: build-storybook
+          dir: react
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
