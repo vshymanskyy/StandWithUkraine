@@ -5,4 +5,5 @@ react/lib/
 
 react/package-lock.json
 react/yarn.lock
-react/yarn.lock
+react/storybook-static/
+
