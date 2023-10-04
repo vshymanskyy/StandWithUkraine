@@ -1,0 +1,44 @@
+name: Generate Documentation
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - react/**
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set Node.js 18.x
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+
+      - name: Run install
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: install # will run `yarn install` command
+
+      - name: Generate Documentation
+        uses: borales/actions-yarn@v4
+        with:
+          cmd: build-storybook
+        
+      - name: Commit to the repo
+        run: |
+          git config --global user.name "JulianWww/generator"
+          git config --global user.email "generator[bot]@JulianWww.github.io"
+          git pull
+          git add -f react/storybook-static/
+          # Force the build to succeed, even if no files were changed
+          git commit -m 'auto generated documentation' || true
+          git push
