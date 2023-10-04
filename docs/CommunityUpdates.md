@@ -1,5 +1,12 @@
 # Ukrainian OSS community updates
 
+## Okt 4, 2023
+Update from [JulianWww](https://github.com/JulianWww):
+> I created a [React library](https://www.npmjs.com/package/stand-with-ukraine-reac)) that provides a built-in
+#StandWithUkraine banner and a banner you can place at the corner of your screen to show your support. Furthermore you can setup a ban screen for russian users. see the [documentation](https://julianwww.github.io/StandWithUkraine/?path=/docs/components-saveukrainebanscreen--docs)
+
+---
+
 ## Jul 17, 2022
 Update from [bocharsky-bw](https://github.com/bocharsky-bw):
 > I created a [Symfony bundle](https://github.com/bocharsky-bw/stand-with-ukraine-bundle) that provides a built-in
