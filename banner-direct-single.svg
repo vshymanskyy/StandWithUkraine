@@ -28,9 +28,15 @@ svg|a:link, svg|a:visited {
 }
 </style>
 
+<defs>
+  <clipPath id="round-corners"><rect width="100%" height="100%" rx="3" /></clipPath>
+</defs>
+
   <a href="https://stand-with-ukraine.pp.ua">
-    <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
-    <rect x="0" y="0" width="100%" height="90px" class="flag-blue"/>
+    <g clip-path="url(#round-corners)">
+      <rect x="0" y="0" width="100%" height="100%" class="flag-yellow"/>
+      <rect x="0" y="0" width="100%" height="90px" class="flag-blue"/>
+    </g>
 
     <text x="0" y="25" class="message">
       <tspan x="30" dy="0.2em">This project was created by a <tspan font-weight="bold">developer from Ukraine</tspan>.</tspan>
