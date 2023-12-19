@@ -13,7 +13,7 @@ There is still war in Ukraine where civilians die every day. You can read more [
 ## Mar 19, 2022
 Update from [veelenga](https://github.com/veelenga):
 > Many companies suspend their business in Russia because of the agression.
-I made a simple [web app](https://rblist.info) where you can quickly find the fresh list of such companies.
+I made a simple [web app](https://veelenga.github.io/rblist/) where you can quickly find the fresh list of such companies.
 This shows how much the world can sacrifice to help Ukraine and to stop the war.
 
 ---
