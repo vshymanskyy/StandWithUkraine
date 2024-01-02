@@ -40,7 +40,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [PHPUnit](https://github.com/sebastianbergmann/phpunit) - PHPUnit is the most commonly used testing framework for PHP
 - [Payum](https://github.com/Payum/Payum) - Payum is a PHP Payment processing library. It offers everything you need to work with payments
 - [Soketi](https://github.com/soketi/soketi) - soketi is your simple, fast, and resilient open-source WebSockets server
-- [Symfony](https://symfony.com/blog/symfony-stands-with-ukraine) - Symfony is a popular PHP framework
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 - [Awesome Crystal](https://github.com/veelenga/awesome-crystal) - A collection of awesome Crystal libraries, tools, frameworks and software
 - [bcrypt.net](https://github.com/BcryptNet/bcrypt.net) - Porting of bcrypt.codeplex.com with enhanced security, missing fixes, features and better .net support
