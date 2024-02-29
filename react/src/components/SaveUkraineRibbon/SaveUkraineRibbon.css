@@ -1,0 +1,35 @@
+.SaveUkraineBanner {
+  position: absolute;
+  width: 100vh;
+  height: 10vh;
+}
+
+.SaveUkraineBanner.TOP_LEFT {
+  left: 0;
+  top: 0;
+  transform: translateX(-30%) rotate(-45deg) ;
+}
+
+.SaveUkraineBanner.TOP_RIGHT {
+  right: 0;
+  top: 0;
+  transform: translateX(30%) rotate(45deg) ;
+}
+
+.SaveUkraineBanner.BOTTOM_LEFT {
+  left: 0;
+  bottom: 0;
+  transform: translateX(-30%) rotate(45deg) ;
+}
+
+.SaveUkraineBanner.BOTTOM_RIGHT {
+  right: 0;
+  bottom: 0;
+  transform: translateX(30%) rotate(-45deg) ;
+}
+
+.flag {
+  background-color: #1709ae00;
+  height: 100px;
+  width: 300px;
+}
