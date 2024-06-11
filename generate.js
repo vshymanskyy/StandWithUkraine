@@ -49,7 +49,7 @@ svg|a:link, svg|a:visited {
         id === 'personal' ? 'This is a personal profile of an <tspan font-weight="bold">open source developer from Ukraine</tspan>.' :
         'This project was developed with substantial contributions by <tspan font-weight="bold">Ukrainian developers</tspan>.'
       }</tspan>`}
-      <tspan x="30" dy="${ id.includes('default') ? 0.8 : 1.2 }em">Russia invaded Ukraine, killing tens of thousands of civilians and displacing millions more.</tspan>
+      <tspan x="30" dy="${ id.includes('default') ? 0.8 : 1.2 }em">Russia invaded Ukraine, killing over ten thousand of civilians and displacing millions more.</tspan>
       <tspan x="30" dy="1.2em">It's a genocide. Please help us defend freedom, democracy and Ukraine's right to exist.</tspan>
     </text>
 
