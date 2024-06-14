@@ -44,7 +44,7 @@ Please opt-in for a monthly payment, if possible.
 - 💵 [**World Central Kitchen**](https://wck.org/) — provides fresh food and hot meals to Ukrainians.
 - 💵 [**United Help Ukraine**](https://unitedhelpukraine.org/) — charitable foundation that supports wounded warriors' rehabilitation and internally displaced persons' needs [501(c)3, Tax ID 47-1837509].
 - 💵 [**Leleka Foundation**](https://leleka.care/) — a non-profit organization that equips medical professionals saving lives in Ukraine **since 2014** [501(c)3, Tax ID 47-2377309].
-- 💵 [**Sprava Hromad**](https://spgr.org.ua/en/portfolio-items/army_support/) — funds are being used to buy armored and transport vehicles, medium and heavy trucks, large UAV systems, communication systems, etc. for frontline UAF divisions.
+- 💵 [**Sprava Hromad**](https://spgr.org.ua/en/donate/) — funds are being used to buy armored and transport vehicles, medium and heavy trucks, large UAV systems, communication systems, etc. for frontline UAF divisions.
 - 💵 [**Opir**](https://opir.org/) - focuses on providing individual items and equipment to fighters at the platoon and group levels.
 - 💵 [**Dignitas Ukraine Inc**](https://dignitas.fund/) — Supporting people of Ukraine through the provision of essential humanitarian supplies, technology, training initiatives and expert guidance [501(c)3, Tax ID 92-3194330].
 
