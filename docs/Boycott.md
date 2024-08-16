@@ -82,6 +82,7 @@ Everything in **`.ru`, `.su`, `.by`** domains should be avoided (most probably).
 0. Skillbox
 0. Skyeng
 0. TamoSoft
+0. Telegram
 0. Unisender
 0. Utmstat
 0. VK (VKontakte)
@@ -110,7 +111,6 @@ This list also features companies that:
 # Other companies to avoid
 
 🇬🇧 Unilever  
-🇫🇷 Danone  
 🇨🇭 Nestlé  
 🇺🇸 Mondelez  
 🇺🇸 Colgate-Palmolive  
