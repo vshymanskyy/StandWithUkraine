@@ -73,5 +73,6 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [FAR.js](https://github.com/farjs/farjs) - Cross-platform File and ARchive Manager in your terminal
 - [Stacks.js](https://github.com/stacksjs) - Develop modern clouds, apps & framework-agnostic libraries, faster
 - [django-content-settings](https://github.com/occipital/django-content-settings) - The most advanced admin editable setting for Django
+- [aProxyRelay](https://github.com/my-dev-app/proxy-relay) - an asynchronous rotating proxy request library designed for easy data retrieval using various (tested) proxy servers.
 - [**...and more than 23000 others**](https://github.com/search?q=vshymanskyy%2FStandWithUkraine&type=code)
 
