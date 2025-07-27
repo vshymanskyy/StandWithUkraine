@@ -133,7 +133,7 @@ Check [Yale CELI List of Companies Leaving and Staying in Russia](https://www.ya
 
 # Projects to avoid
 
-0. [Natural Earth](https://github.com/nvkelso/natural-earth-vector) — its defaults actively aid the ruscist propaganda and the BDFL have been refusing to improve the situation for the past 8 years
+0. [Natural Earth](https://github.com/nvkelso/natural-earth-vector) — its defaults actively aid the ruscist propaganda and the BDFL have been refusing to improve the situation for the past 11 years
 
 ## ALLOW LIST
 
