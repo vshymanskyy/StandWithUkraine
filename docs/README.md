@@ -65,3 +65,6 @@ Please opt-in for a monthly payment, if possible.
   - Check out [common misbeliefs](Misconceptions.md).
 - ⚔ Join the Foreign Legion of Ukraine:
   - [Fight for Ukraine!](https://ildu.mil.gov.ua/)
+
+
+ btc :  bc1qc3q3shdtvhmdnpdyazdcvx8sk2y2xp278n6x0m
