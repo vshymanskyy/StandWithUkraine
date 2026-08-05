@@ -69,6 +69,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 - [GongSolutions.WPF.DragDrop](https://github.com/punker76/gong-wpf-dragdrop) - An easy to use drag'n'drop framework for WPF
 - [ElectricsEagles](https://github.com/Electrics-Eagles) - ElectricsEagles drones
 - [PokeTube](https://github.com/iamashley0/poketube/) - An Youtube player thats focused on privacy
+- [Movar](https://github.com/rejifald/movar) - A cross-browser extension that keeps the internet in your language, prioritizing Ukrainian and steering search engines and multilingual sites away from Russian.
 - [ProxyManager](https://github.com/Ocramius/ProxyManager) -  A  PHP library that aims to provide abstraction for generating various kinds of proxy classes
 - [FAR.js](https://github.com/farjs/farjs) - Cross-platform File and ARchive Manager in your terminal
 - [Stacks.js](https://github.com/stacksjs) - Develop modern clouds, apps & framework-agnostic libraries, faster
