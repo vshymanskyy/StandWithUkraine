@@ -1,6 +1,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/vshymanskyy/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/vshymanskyy/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/issues)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
+[![React Docs](https://github.com/JulianWww/StandWithUkraine/actions/workflows/static.yml/badge.svg)](https://github.com/JulianWww/StandWithUkraine/actions/workflows/static.yml)
 
 This repository contains **Readme Banners** (and some useful docs) that can be used by OSS projects to spread the word, support and help Ukraine in this disastrous situation. Like this **(click to open)**:
 
