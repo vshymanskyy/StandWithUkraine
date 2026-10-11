@@ -17,7 +17,7 @@ This repository contains **Readme Banners** (and some useful docs) that can be u
 4. Follow the [cyber safety guide](/docs/CyberSafety.md)
 
 ## Projects that #StandWithUkraine
-
+- [Druk Armia (ДрукАрмія)](https://drukarmy.org.ua) - A massive volunteer platform coordinating home 3D-printer owners to print critical equipment, drone stabilizers, and medical tools for the defenders.
 - [AssemblyScript](https://github.com/AssemblyScript/assemblyscript) - A variant of TypeScript that compiles to WebAssembly using Binaryen
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
 - [MacPaw](https://github.com/MacPaw) - A company behind prominent Mac software: CleanMyMac X, Setapp, Gemini 2, The Unarchiver
